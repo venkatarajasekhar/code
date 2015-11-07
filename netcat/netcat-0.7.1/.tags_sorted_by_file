@@ -1,0 +1,1399 @@
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_PROGRAM_VERSION	5.8	//
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+ACLOCAL	Makefile	/^ACLOCAL = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run aclocal-1.7$/;"	m
+ACLOCAL_AMFLAGS	Makefile	/^ACLOCAL_AMFLAGS = -I m4$/;"	m
+ACLOCAL_M4	Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ALLOCA	Makefile	/^ALLOCA = $/;"	m
+AMDEP_FALSE	Makefile	/^AMDEP_FALSE = #$/;"	m
+AMDEP_TRUE	Makefile	/^AMDEP_TRUE = $/;"	m
+AMTAR	Makefile	/^AMTAR = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run tar$/;"	m
+AUTOCONF	Makefile	/^AUTOCONF = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run autoconf$/;"	m
+AUTOHEADER	Makefile	/^AUTOHEADER = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run autoheader$/;"	m
+AUTOMAKE	Makefile	/^AUTOMAKE = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run automake-1.7$/;"	m
+AUTOMAKE_OPTIONS	Makefile	/^AUTOMAKE_OPTIONS = no-dependencies foreign dist-bzip2$/;"	m
+AWK	Makefile	/^AWK = awk$/;"	m
+CC	Makefile	/^CC = gcc$/;"	m
+CCDEPMODE	Makefile	/^CCDEPMODE = depmode=none$/;"	m
+CFLAGS	Makefile	/^CFLAGS = -g -O2 -Wall$/;"	m
+CONFIG_CLEAN_FILES	Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_HEADER	Makefile	/^CONFIG_HEADER = config.h$/;"	m
+CONTRIBLIBS	Makefile	/^CONTRIBLIBS = $/;"	m
+CPP	Makefile	/^CPP = gcc -E$/;"	m
+CPPFLAGS	Makefile	/^CPPFLAGS = $/;"	m
+CTAGS	Makefile	/^CTAGS = ctags$/;"	m
+CTAGSFLAGS	Makefile	/^CTAGSFLAGS =$/;"	m
+CYGPATH_W	Makefile	/^CYGPATH_W = echo$/;"	m
+DEFS	Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEPDIR	Makefile	/^DEPDIR = .deps$/;"	m
+DISTFILES	Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DIST_COMMON	Makefile	/^DIST_COMMON = README ABOUT-NLS AUTHORS COPYING ChangeLog INSTALL \\$/;"	m
+DIST_SOURCES	Makefile	/^DIST_SOURCES =$/;"	m
+DIST_SUBDIRS	Makefile	/^DIST_SUBDIRS = $(SUBDIRS)$/;"	m
+ECHO_C	Makefile	/^ECHO_C = \\c$/;"	m
+ECHO_N	Makefile	/^ECHO_N = $/;"	m
+ECHO_T	Makefile	/^ECHO_T = $/;"	m
+EGREP	Makefile	/^EGREP = \/usr\/bin\/grep -E$/;"	m
+ETAGS	Makefile	/^ETAGS = etags$/;"	m
+ETAGSFLAGS	Makefile	/^ETAGSFLAGS =$/;"	m
+EXEEXT	Makefile	/^EXEEXT = $/;"	m
+EXTRA_DIST	Makefile	/^EXTRA_DIST = AUTHORS COPYING ChangeLog INSTALL README TODO $/;"	m
+GLIBC21	Makefile	/^GLIBC21 = no$/;"	m
+GMSGFMT	Makefile	/^GMSGFMT = :$/;"	m
+GZIP_ENV	Makefile	/^GZIP_ENV = --best$/;"	m
+INSTALL	Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL_DATA	Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_HEADER	Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_PROGRAM	Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_STRIP_PROGRAM	Makefile	/^INSTALL_STRIP_PROGRAM = ${SHELL} $(install_sh) -c -s$/;"	m
+INTLBISON	Makefile	/^INTLBISON = bison$/;"	m
+INTLLIBS	Makefile	/^INTLLIBS = $/;"	m
+LDFLAGS	Makefile	/^LDFLAGS = $/;"	m
+LIBICONV	Makefile	/^LIBICONV = -liconv$/;"	m
+LIBINTL	Makefile	/^LIBINTL = $/;"	m
+LIBOBJS	Makefile	/^LIBOBJS = $/;"	m
+LIBS	Makefile	/^LIBS = $/;"	m
+LTLIBICONV	Makefile	/^LTLIBICONV = -liconv$/;"	m
+LTLIBINTL	Makefile	/^LTLIBINTL = $/;"	m
+LTLIBOBJS	Makefile	/^LTLIBOBJS = $/;"	m
+MAKEINFO	Makefile	/^MAKEINFO = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run makeinfo$/;"	m
+MKINSTALLDIRS	Makefile	/^MKINSTALLDIRS = .\/mkinstalldirs$/;"	m
+MSGFMT	Makefile	/^MSGFMT = :$/;"	m
+MSGMERGE	Makefile	/^MSGMERGE = :$/;"	m
+NEED_GETOPT_FALSE	Makefile	/^NEED_GETOPT_FALSE = $/;"	m
+NEED_GETOPT_TRUE	Makefile	/^NEED_GETOPT_TRUE = #$/;"	m
+NORMAL_INSTALL	Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_UNINSTALL	Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+OBJEXT	Makefile	/^OBJEXT = o$/;"	m
+PACKAGE	Makefile	/^PACKAGE = netcat$/;"	m
+PACKAGE_BUGREPORT	Makefile	/^PACKAGE_BUGREPORT = $/;"	m
+PACKAGE_NAME	Makefile	/^PACKAGE_NAME = $/;"	m
+PACKAGE_STRING	Makefile	/^PACKAGE_STRING = $/;"	m
+PACKAGE_TARNAME	Makefile	/^PACKAGE_TARNAME = $/;"	m
+PACKAGE_VERSION	Makefile	/^PACKAGE_VERSION = $/;"	m
+PATH_SEPARATOR	Makefile	/^PATH_SEPARATOR = :$/;"	m
+PERL	Makefile	/^PERL = \/usr\/bin\/perl$/;"	m
+POD2MAN	Makefile	/^POD2MAN = \/usr\/bin\/pod2man$/;"	m
+POST_INSTALL	Makefile	/^POST_INSTALL = :$/;"	m
+POST_UNINSTALL	Makefile	/^POST_UNINSTALL = :$/;"	m
+POSUB	Makefile	/^POSUB = $/;"	m
+PRE_INSTALL	Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_UNINSTALL	Makefile	/^PRE_UNINSTALL = :$/;"	m
+RANLIB	Makefile	/^RANLIB = ranlib$/;"	m
+RECURSIVE_TARGETS	Makefile	/^RECURSIVE_TARGETS = info-recursive dvi-recursive pdf-recursive \\$/;"	m
+SET_MAKE	Makefile	/^SET_MAKE = $/;"	m
+SHELL	Makefile	/^SHELL = \/bin\/sh$/;"	m
+STRIP	Makefile	/^STRIP = $/;"	m
+SUBDIRS	Makefile	/^SUBDIRS = m4 lib src doc po$/;"	m
+USE_NLS	Makefile	/^USE_NLS = no$/;"	m
+VERSION	Makefile	/^VERSION = 0.7.1$/;"	m
+XGETTEXT	Makefile	/^XGETTEXT = :$/;"	m
+ac_ct_CC	Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_RANLIB	Makefile	/^ac_ct_RANLIB = @ac_ct_RANLIB@$/;"	m
+ac_ct_STRIP	Makefile	/^ac_ct_STRIP = @ac_ct_STRIP@$/;"	m
+all_includes	Makefile	/^all_includes =  $/;"	m
+all_libraries	Makefile	/^all_libraries =  $/;"	m
+am__CONFIG_DISTCLEAN_FILES	Makefile	/^am__CONFIG_DISTCLEAN_FILES = config.status config.cache config.log \\$/;"	m
+am__cd	Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__depfiles_maybe	Makefile	/^am__depfiles_maybe =$/;"	m
+am__fastdepCC_FALSE	Makefile	/^am__fastdepCC_FALSE = $/;"	m
+am__fastdepCC_TRUE	Makefile	/^am__fastdepCC_TRUE = #$/;"	m
+am__include	Makefile	/^am__include = include$/;"	m
+am__leading_dot	Makefile	/^am__leading_dot = .$/;"	m
+am__quote	Makefile	/^am__quote = $/;"	m
+am__remove_distdir	Makefile	/^am__remove_distdir = \\$/;"	m
+bindir	Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+build	Makefile	/^build = i686-apple-darwin14.3.0$/;"	m
+build_alias	Makefile	/^build_alias = $/;"	m
+build_cpu	Makefile	/^build_cpu = i686$/;"	m
+build_os	Makefile	/^build_os = darwin14.3.0$/;"	m
+build_triplet	Makefile	/^build_triplet = i686-apple-darwin14.3.0$/;"	m
+build_vendor	Makefile	/^build_vendor = apple$/;"	m
+datadir	Makefile	/^datadir = ${prefix}\/share$/;"	m
+dc_install_base	Makefile	/^	dc_install_base=`$(am__cd) $(distdir)\/_inst && pwd | sed -e 's,^[^:\\\\\/]:[\\\\\/],\/,'` \\$/;"	m
+depcomp	Makefile	/^depcomp =$/;"	m
+distcleancheck_listfiles	Makefile	/^distcleancheck_listfiles = find . -type f -print$/;"	m
+distdir	Makefile	/^distdir = $(PACKAGE)-$(VERSION)$/;"	m
+distuninstallcheck_listfiles	Makefile	/^distuninstallcheck_listfiles = find . -type f -print$/;"	m
+exec_prefix	Makefile	/^exec_prefix = ${prefix}$/;"	m
+host	Makefile	/^host = i686-apple-darwin14.3.0$/;"	m
+host_alias	Makefile	/^host_alias = $/;"	m
+host_cpu	Makefile	/^host_cpu = i686$/;"	m
+host_os	Makefile	/^host_os = darwin14.3.0$/;"	m
+host_triplet	Makefile	/^host_triplet = i686-apple-darwin14.3.0$/;"	m
+host_vendor	Makefile	/^host_vendor = apple$/;"	m
+includedir	Makefile	/^includedir = ${prefix}\/include$/;"	m
+infodir	Makefile	/^infodir = ${prefix}\/share\/info$/;"	m
+install_sh	Makefile	/^install_sh = \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/install-sh$/;"	m
+install_sh_DATA	Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_PROGRAM	Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+libdir	Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libexecdir	Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+list	Makefile	/^	list='$(SUBDIRS)'; for subdir in $$list; do \\$/;"	m
+localstatedir	Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+mandir	Makefile	/^mandir = ${prefix}\/share\/man$/;"	m
+mkinstalldirs	Makefile	/^mkinstalldirs = $(SHELL) $(top_srcdir)\/mkinstalldirs$/;"	m
+oldincludedir	Makefile	/^oldincludedir = \/usr\/include$/;"	m
+pkgdatadir	Makefile	/^pkgdatadir = $(datadir)\/netcat$/;"	m
+pkgincludedir	Makefile	/^pkgincludedir = $(includedir)\/netcat$/;"	m
+pkglibdir	Makefile	/^pkglibdir = $(libdir)\/netcat$/;"	m
+prefix	Makefile	/^prefix = \/usr\/local$/;"	m
+program_transform_name	Makefile	/^program_transform_name = s,x,x,$/;"	m
+sbindir	Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sharedstatedir	Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+srcdir	Makefile	/^srcdir = .$/;"	m
+subdir	Makefile	/^subdir = .$/;"	m
+sysconfdir	Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+target	Makefile	/^target = i686-apple-darwin14.3.0$/;"	m
+target_alias	Makefile	/^target_alias = $/;"	m
+target_cpu	Makefile	/^target_cpu = i686$/;"	m
+target_os	Makefile	/^target_os = darwin14.3.0$/;"	m
+target_triplet	Makefile	/^target_triplet = i686-apple-darwin14.3.0$/;"	m
+target_vendor	Makefile	/^target_vendor = apple$/;"	m
+top_builddir	Makefile	/^top_builddir = .$/;"	m
+top_distdir	Makefile	/^top_distdir = .$/;"	m
+top_srcdir	Makefile	/^top_srcdir = .$/;"	m
+transform	Makefile	/^transform = $(program_transform_name)$/;"	m
+HAVE_ALLOCA	config.h	/^#define HAVE_ALLOCA /;"	d
+HAVE_ALLOCA_H	config.h	/^#define HAVE_ALLOCA_H /;"	d
+HAVE_FEOF_UNLOCKED	config.h	/^#define HAVE_FEOF_UNLOCKED /;"	d
+HAVE_GETCWD	config.h	/^#define HAVE_GETCWD /;"	d
+HAVE_GETC_UNLOCKED	config.h	/^#define HAVE_GETC_UNLOCKED /;"	d
+HAVE_GETEGID	config.h	/^#define HAVE_GETEGID /;"	d
+HAVE_GETEUID	config.h	/^#define HAVE_GETEUID /;"	d
+HAVE_GETGID	config.h	/^#define HAVE_GETGID /;"	d
+HAVE_GETOPT_LONG	config.h	/^#define HAVE_GETOPT_LONG /;"	d
+HAVE_GETPAGESIZE	config.h	/^#define HAVE_GETPAGESIZE /;"	d
+HAVE_GETUID	config.h	/^#define HAVE_GETUID /;"	d
+HAVE_ICONV	config.h	/^#define HAVE_ICONV /;"	d
+HAVE_INET_NTOP	config.h	/^#define HAVE_INET_NTOP /;"	d
+HAVE_INET_PTON	config.h	/^#define HAVE_INET_PTON /;"	d
+HAVE_INTTYPES_H	config.h	/^#define HAVE_INTTYPES_H /;"	d
+HAVE_INTTYPES_H_WITH_UINTMAX	config.h	/^#define HAVE_INTTYPES_H_WITH_UINTMAX /;"	d
+HAVE_IN_PORT_T	config.h	/^#define HAVE_IN_PORT_T /;"	d
+HAVE_LANGINFO_CODESET	config.h	/^#define HAVE_LANGINFO_CODESET /;"	d
+HAVE_LC_MESSAGES	config.h	/^#define HAVE_LC_MESSAGES /;"	d
+HAVE_LIMITS_H	config.h	/^#define HAVE_LIMITS_H /;"	d
+HAVE_LOCALE_H	config.h	/^#define HAVE_LOCALE_H /;"	d
+HAVE_MEMORY_H	config.h	/^#define HAVE_MEMORY_H /;"	d
+HAVE_MMAP	config.h	/^#define HAVE_MMAP /;"	d
+HAVE_MUNMAP	config.h	/^#define HAVE_MUNMAP /;"	d
+HAVE_NL_TYPES_H	config.h	/^#define HAVE_NL_TYPES_H /;"	d
+HAVE_PUTENV	config.h	/^#define HAVE_PUTENV /;"	d
+HAVE_RANDOM	config.h	/^#define HAVE_RANDOM /;"	d
+HAVE_SETENV	config.h	/^#define HAVE_SETENV /;"	d
+HAVE_SETLOCALE	config.h	/^#define HAVE_SETLOCALE /;"	d
+HAVE_SRANDOM	config.h	/^#define HAVE_SRANDOM /;"	d
+HAVE_STDDEF_H	config.h	/^#define HAVE_STDDEF_H /;"	d
+HAVE_STDINT_H	config.h	/^#define HAVE_STDINT_H /;"	d
+HAVE_STDINT_H_WITH_UINTMAX	config.h	/^#define HAVE_STDINT_H_WITH_UINTMAX /;"	d
+HAVE_STDLIB_H	config.h	/^#define HAVE_STDLIB_H /;"	d
+HAVE_STPCPY	config.h	/^#define HAVE_STPCPY /;"	d
+HAVE_STRCASECMP	config.h	/^#define HAVE_STRCASECMP /;"	d
+HAVE_STRDUP	config.h	/^#define HAVE_STRDUP /;"	d
+HAVE_STRINGS_H	config.h	/^#define HAVE_STRINGS_H /;"	d
+HAVE_STRING_H	config.h	/^#define HAVE_STRING_H /;"	d
+HAVE_STRTOUL	config.h	/^#define HAVE_STRTOUL /;"	d
+HAVE_STRUCT_IN_PKTINFO	config.h	/^#define HAVE_STRUCT_IN_PKTINFO /;"	d
+HAVE_STRUCT_SOCKADDR_SA_LEN	config.h	/^#define HAVE_STRUCT_SOCKADDR_SA_LEN /;"	d
+HAVE_SYS_PARAM_H	config.h	/^#define HAVE_SYS_PARAM_H /;"	d
+HAVE_SYS_SOCKIO_H	config.h	/^#define HAVE_SYS_SOCKIO_H /;"	d
+HAVE_SYS_STAT_H	config.h	/^#define HAVE_SYS_STAT_H /;"	d
+HAVE_SYS_TYPES_H	config.h	/^#define HAVE_SYS_TYPES_H /;"	d
+HAVE_TSEARCH	config.h	/^#define HAVE_TSEARCH /;"	d
+HAVE_UNISTD_H	config.h	/^#define HAVE_UNISTD_H /;"	d
+HAVE_UNSIGNED_LONG_LONG	config.h	/^#define HAVE_UNSIGNED_LONG_LONG /;"	d
+ICONV_CONST	config.h	/^#define ICONV_CONST /;"	d
+INTDIV0_RAISES_SIGFPE	config.h	/^#define INTDIV0_RAISES_SIGFPE /;"	d
+PACKAGE	config.h	/^#define PACKAGE /;"	d
+PACKAGE_BUGREPORT	config.h	/^#define PACKAGE_BUGREPORT /;"	d
+PACKAGE_NAME	config.h	/^#define PACKAGE_NAME /;"	d
+PACKAGE_STRING	config.h	/^#define PACKAGE_STRING /;"	d
+PACKAGE_TARNAME	config.h	/^#define PACKAGE_TARNAME /;"	d
+PACKAGE_URL	config.h	/^#define PACKAGE_URL /;"	d
+PACKAGE_VERSION	config.h	/^#define PACKAGE_VERSION /;"	d
+STDC_HEADERS	config.h	/^#define STDC_HEADERS /;"	d
+VERSION	config.h	/^#define VERSION /;"	d
+as_fn_append	config.status	/^  as_fn_append ()$/;"	f
+as_fn_arith	config.status	/^  as_fn_arith ()$/;"	f
+as_fn_error	config.status	/^as_fn_error ()$/;"	f
+as_fn_executable_p	config.status	/^as_fn_executable_p ()$/;"	f
+as_fn_exit	config.status	/^as_fn_exit ()$/;"	f
+as_fn_mkdir_p	config.status	/^as_fn_mkdir_p ()$/;"	f
+as_fn_set_status	config.status	/^as_fn_set_status ()$/;"	f
+as_fn_unset	config.status	/^as_fn_unset ()$/;"	f
+ACLOCAL	doc/Makefile	/^ACLOCAL = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run aclocal-1.7$/;"	m
+ACLOCAL_M4	doc/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ALLOCA	doc/Makefile	/^ALLOCA = $/;"	m
+AMDEP_FALSE	doc/Makefile	/^AMDEP_FALSE = #$/;"	m
+AMDEP_TRUE	doc/Makefile	/^AMDEP_TRUE = $/;"	m
+AMTAR	doc/Makefile	/^AMTAR = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run tar$/;"	m
+AUTOCONF	doc/Makefile	/^AUTOCONF = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run autoconf$/;"	m
+AUTOHEADER	doc/Makefile	/^AUTOHEADER = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run autoheader$/;"	m
+AUTOMAKE	doc/Makefile	/^AUTOMAKE = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run automake-1.7$/;"	m
+AWK	doc/Makefile	/^AWK = awk$/;"	m
+CC	doc/Makefile	/^CC = gcc$/;"	m
+CCDEPMODE	doc/Makefile	/^CCDEPMODE = depmode=none$/;"	m
+CFLAGS	doc/Makefile	/^CFLAGS = -g -O2 -Wall$/;"	m
+CONFIG_CLEAN_FILES	doc/Makefile	/^CONFIG_CLEAN_FILES = texi2pod.pl$/;"	m
+CONFIG_HEADER	doc/Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/;"	m
+CONTRIBLIBS	doc/Makefile	/^CONTRIBLIBS = $/;"	m
+CPP	doc/Makefile	/^CPP = gcc -E$/;"	m
+CPPFLAGS	doc/Makefile	/^CPPFLAGS = $/;"	m
+CTAGS	doc/Makefile	/^CTAGS = ctags$/;"	m
+CTAGSFLAGS	doc/Makefile	/^CTAGSFLAGS =$/;"	m
+CYGPATH_W	doc/Makefile	/^CYGPATH_W = echo$/;"	m
+DEFS	doc/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEPDIR	doc/Makefile	/^DEPDIR = .deps$/;"	m
+DISTFILES	doc/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DIST_COMMON	doc/Makefile	/^DIST_COMMON = Makefile.am Makefile.in mdate-sh stamp-vti texi2pod.pl.in \\$/;"	m
+DIST_SOURCES	doc/Makefile	/^DIST_SOURCES =$/;"	m
+DIST_SUBDIRS	doc/Makefile	/^DIST_SUBDIRS = $(SUBDIRS)$/;"	m
+DVIPS	doc/Makefile	/^DVIPS = dvips$/;"	m
+DVIS	doc/Makefile	/^DVIS = netcat.dvi$/;"	m
+ECHO_C	doc/Makefile	/^ECHO_C = \\c$/;"	m
+ECHO_N	doc/Makefile	/^ECHO_N = $/;"	m
+ECHO_T	doc/Makefile	/^ECHO_T = $/;"	m
+EGREP	doc/Makefile	/^EGREP = \/usr\/bin\/grep -E$/;"	m
+ETAGS	doc/Makefile	/^ETAGS = etags$/;"	m
+ETAGSFLAGS	doc/Makefile	/^ETAGSFLAGS =$/;"	m
+EXEEXT	doc/Makefile	/^EXEEXT = $/;"	m
+EXTRA_DIST	doc/Makefile	/^EXTRA_DIST = netcat.1 netcat.pod migration$/;"	m
+GLIBC21	doc/Makefile	/^GLIBC21 = no$/;"	m
+GMSGFMT	doc/Makefile	/^GMSGFMT = :$/;"	m
+INFO_DEPS	doc/Makefile	/^INFO_DEPS = netcat.info$/;"	m
+INSTALL	doc/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL_DATA	doc/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_HEADER	doc/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_PROGRAM	doc/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	doc/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_STRIP_PROGRAM	doc/Makefile	/^INSTALL_STRIP_PROGRAM = ${SHELL} $(install_sh) -c -s$/;"	m
+INTLBISON	doc/Makefile	/^INTLBISON = bison$/;"	m
+INTLLIBS	doc/Makefile	/^INTLLIBS = $/;"	m
+LDFLAGS	doc/Makefile	/^LDFLAGS = $/;"	m
+LIBICONV	doc/Makefile	/^LIBICONV = -liconv$/;"	m
+LIBINTL	doc/Makefile	/^LIBINTL = $/;"	m
+LIBOBJS	doc/Makefile	/^LIBOBJS = $/;"	m
+LIBS	doc/Makefile	/^LIBS = $/;"	m
+LTLIBICONV	doc/Makefile	/^LTLIBICONV = -liconv$/;"	m
+LTLIBINTL	doc/Makefile	/^LTLIBINTL = $/;"	m
+LTLIBOBJS	doc/Makefile	/^LTLIBOBJS = $/;"	m
+MAINTAINERCLEANFILES	doc/Makefile	/^MAINTAINERCLEANFILES = netcat.1 netcat.pod$/;"	m
+MAKEINFO	doc/Makefile	/^MAKEINFO = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run makeinfo$/;"	m
+MANS	doc/Makefile	/^MANS = $(man_MANS)$/;"	m
+MKINSTALLDIRS	doc/Makefile	/^MKINSTALLDIRS = .\/mkinstalldirs$/;"	m
+MSGFMT	doc/Makefile	/^MSGFMT = :$/;"	m
+MSGMERGE	doc/Makefile	/^MSGMERGE = :$/;"	m
+NEED_GETOPT_FALSE	doc/Makefile	/^NEED_GETOPT_FALSE = $/;"	m
+NEED_GETOPT_TRUE	doc/Makefile	/^NEED_GETOPT_TRUE = #$/;"	m
+NORMAL_INSTALL	doc/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_UNINSTALL	doc/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NROFF	doc/Makefile	/^NROFF = nroff$/;"	m
+OBJEXT	doc/Makefile	/^OBJEXT = o$/;"	m
+PACKAGE	doc/Makefile	/^PACKAGE = netcat$/;"	m
+PACKAGE_BUGREPORT	doc/Makefile	/^PACKAGE_BUGREPORT = $/;"	m
+PACKAGE_NAME	doc/Makefile	/^PACKAGE_NAME = $/;"	m
+PACKAGE_STRING	doc/Makefile	/^PACKAGE_STRING = $/;"	m
+PACKAGE_TARNAME	doc/Makefile	/^PACKAGE_TARNAME = $/;"	m
+PACKAGE_VERSION	doc/Makefile	/^PACKAGE_VERSION = $/;"	m
+PATH_SEPARATOR	doc/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PDFS	doc/Makefile	/^PDFS = netcat.pdf$/;"	m
+PERL	doc/Makefile	/^PERL = \/usr\/bin\/perl$/;"	m
+POD2MAN	doc/Makefile	/^POD2MAN = \/usr\/bin\/pod2man$/;"	m
+POST_INSTALL	doc/Makefile	/^POST_INSTALL = :$/;"	m
+POST_UNINSTALL	doc/Makefile	/^POST_UNINSTALL = :$/;"	m
+POSUB	doc/Makefile	/^POSUB = $/;"	m
+PRE_INSTALL	doc/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_UNINSTALL	doc/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PSS	doc/Makefile	/^PSS = netcat.ps$/;"	m
+RANLIB	doc/Makefile	/^RANLIB = ranlib$/;"	m
+RECURSIVE_TARGETS	doc/Makefile	/^RECURSIVE_TARGETS = info-recursive dvi-recursive pdf-recursive \\$/;"	m
+SET_MAKE	doc/Makefile	/^SET_MAKE = $/;"	m
+SHELL	doc/Makefile	/^SHELL = \/bin\/sh$/;"	m
+STRIP	doc/Makefile	/^STRIP = $/;"	m
+SUBDIRS	doc/Makefile	/^SUBDIRS = drafts$/;"	m
+TEXI2DVI	doc/Makefile	/^TEXI2DVI = texi2dvi$/;"	m
+TEXI2PDF	doc/Makefile	/^TEXI2PDF = $(TEXI2DVI) --pdf --batch$/;"	m
+TEXI2POD	doc/Makefile	/^TEXI2POD = $(top_builddir)\/doc\/texi2pod.pl$/;"	m
+TEXINFOS	doc/Makefile	/^TEXINFOS = netcat.texi$/;"	m
+USE_NLS	doc/Makefile	/^USE_NLS = no$/;"	m
+VERSION	doc/Makefile	/^VERSION = 0.7.1$/;"	m
+XGETTEXT	doc/Makefile	/^XGETTEXT = :$/;"	m
+ac_ct_CC	doc/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_RANLIB	doc/Makefile	/^ac_ct_RANLIB = @ac_ct_RANLIB@$/;"	m
+ac_ct_STRIP	doc/Makefile	/^ac_ct_STRIP = @ac_ct_STRIP@$/;"	m
+all_includes	doc/Makefile	/^all_includes =  $/;"	m
+all_libraries	doc/Makefile	/^all_libraries =  $/;"	m
+am__TEXINFO_TEX_DIR	doc/Makefile	/^am__TEXINFO_TEX_DIR = $(srcdir)$/;"	m
+am__cd	doc/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__depfiles_maybe	doc/Makefile	/^am__depfiles_maybe =$/;"	m
+am__fastdepCC_FALSE	doc/Makefile	/^am__fastdepCC_FALSE = $/;"	m
+am__fastdepCC_TRUE	doc/Makefile	/^am__fastdepCC_TRUE = #$/;"	m
+am__include	doc/Makefile	/^am__include = include$/;"	m
+am__leading_dot	doc/Makefile	/^am__leading_dot = .$/;"	m
+am__quote	doc/Makefile	/^am__quote = $/;"	m
+bindir	doc/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+build	doc/Makefile	/^build = i686-apple-darwin14.3.0$/;"	m
+build_alias	doc/Makefile	/^build_alias = $/;"	m
+build_cpu	doc/Makefile	/^build_cpu = i686$/;"	m
+build_os	doc/Makefile	/^build_os = darwin14.3.0$/;"	m
+build_triplet	doc/Makefile	/^build_triplet = i686-apple-darwin14.3.0$/;"	m
+build_vendor	doc/Makefile	/^build_vendor = apple$/;"	m
+datadir	doc/Makefile	/^datadir = ${prefix}\/share$/;"	m
+depcomp	doc/Makefile	/^depcomp =$/;"	m
+distdir	doc/Makefile	/^distdir = $(top_distdir)\/$(PACKAGE)-$(VERSION)$/;"	m
+exec_prefix	doc/Makefile	/^exec_prefix = ${prefix}$/;"	m
+host	doc/Makefile	/^host = i686-apple-darwin14.3.0$/;"	m
+host_alias	doc/Makefile	/^host_alias = $/;"	m
+host_cpu	doc/Makefile	/^host_cpu = i686$/;"	m
+host_os	doc/Makefile	/^host_os = darwin14.3.0$/;"	m
+host_triplet	doc/Makefile	/^host_triplet = i686-apple-darwin14.3.0$/;"	m
+host_vendor	doc/Makefile	/^host_vendor = apple$/;"	m
+includedir	doc/Makefile	/^includedir = ${prefix}\/include$/;"	m
+info_TEXINFOS	doc/Makefile	/^info_TEXINFOS = netcat.texi$/;"	m
+infodir	doc/Makefile	/^infodir = ${prefix}\/share\/info$/;"	m
+install_sh	doc/Makefile	/^install_sh = \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/install-sh$/;"	m
+install_sh_DATA	doc/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_PROGRAM	doc/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	doc/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+libdir	doc/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libexecdir	doc/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+list	doc/Makefile	/^	list='$(SUBDIRS)'; for subdir in $$list; do \\$/;"	m
+localstatedir	doc/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+man1dir	doc/Makefile	/^man1dir = $(mandir)\/man1$/;"	m
+man_MANS	doc/Makefile	/^man_MANS = netcat.1$/;"	m
+mandir	doc/Makefile	/^mandir = ${prefix}\/share\/man$/;"	m
+mkinstalldirs	doc/Makefile	/^mkinstalldirs = $(SHELL) $(top_srcdir)\/mkinstalldirs$/;"	m
+oldincludedir	doc/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+pkgdatadir	doc/Makefile	/^pkgdatadir = $(datadir)\/netcat$/;"	m
+pkgincludedir	doc/Makefile	/^pkgincludedir = $(includedir)\/netcat$/;"	m
+pkglibdir	doc/Makefile	/^pkglibdir = $(libdir)\/netcat$/;"	m
+prefix	doc/Makefile	/^prefix = \/usr\/local$/;"	m
+program_transform_name	doc/Makefile	/^program_transform_name = s,x,x,$/;"	m
+sbindir	doc/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sharedstatedir	doc/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+srcdir	doc/Makefile	/^srcdir = .$/;"	m
+subdir	doc/Makefile	/^subdir = doc$/;"	m
+sysconfdir	doc/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+target	doc/Makefile	/^target = i686-apple-darwin14.3.0$/;"	m
+target_alias	doc/Makefile	/^target_alias = $/;"	m
+target_cpu	doc/Makefile	/^target_cpu = i686$/;"	m
+target_os	doc/Makefile	/^target_os = darwin14.3.0$/;"	m
+target_triplet	doc/Makefile	/^target_triplet = i686-apple-darwin14.3.0$/;"	m
+target_vendor	doc/Makefile	/^target_vendor = apple$/;"	m
+top_builddir	doc/Makefile	/^top_builddir = ..$/;"	m
+top_distdir	doc/Makefile	/^top_distdir = ..$/;"	m
+top_srcdir	doc/Makefile	/^top_srcdir = ..$/;"	m
+transform	doc/Makefile	/^transform = $(program_transform_name)$/;"	m
+ACLOCAL	doc/drafts/Makefile	/^ACLOCAL = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run aclocal-1.7$/;"	m
+ACLOCAL_M4	doc/drafts/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ALLOCA	doc/drafts/Makefile	/^ALLOCA = $/;"	m
+AMDEP_FALSE	doc/drafts/Makefile	/^AMDEP_FALSE = #$/;"	m
+AMDEP_TRUE	doc/drafts/Makefile	/^AMDEP_TRUE = $/;"	m
+AMTAR	doc/drafts/Makefile	/^AMTAR = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run tar$/;"	m
+AUTOCONF	doc/drafts/Makefile	/^AUTOCONF = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run autoconf$/;"	m
+AUTOHEADER	doc/drafts/Makefile	/^AUTOHEADER = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run autoheader$/;"	m
+AUTOMAKE	doc/drafts/Makefile	/^AUTOMAKE = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run automake-1.7$/;"	m
+AWK	doc/drafts/Makefile	/^AWK = awk$/;"	m
+CC	doc/drafts/Makefile	/^CC = gcc$/;"	m
+CCDEPMODE	doc/drafts/Makefile	/^CCDEPMODE = depmode=none$/;"	m
+CFLAGS	doc/drafts/Makefile	/^CFLAGS = -g -O2 -Wall$/;"	m
+CONFIG_CLEAN_FILES	doc/drafts/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_HEADER	doc/drafts/Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/;"	m
+CONTRIBLIBS	doc/drafts/Makefile	/^CONTRIBLIBS = $/;"	m
+CPP	doc/drafts/Makefile	/^CPP = gcc -E$/;"	m
+CPPFLAGS	doc/drafts/Makefile	/^CPPFLAGS = $/;"	m
+CYGPATH_W	doc/drafts/Makefile	/^CYGPATH_W = echo$/;"	m
+DEFS	doc/drafts/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEPDIR	doc/drafts/Makefile	/^DEPDIR = .deps$/;"	m
+DISTFILES	doc/drafts/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DIST_COMMON	doc/drafts/Makefile	/^DIST_COMMON = README Makefile.am Makefile.in$/;"	m
+DIST_SOURCES	doc/drafts/Makefile	/^DIST_SOURCES =$/;"	m
+ECHO_C	doc/drafts/Makefile	/^ECHO_C = \\c$/;"	m
+ECHO_N	doc/drafts/Makefile	/^ECHO_N = $/;"	m
+ECHO_T	doc/drafts/Makefile	/^ECHO_T = $/;"	m
+EGREP	doc/drafts/Makefile	/^EGREP = \/usr\/bin\/grep -E$/;"	m
+EXEEXT	doc/drafts/Makefile	/^EXEEXT = $/;"	m
+EXTRA_DIST	doc/drafts/Makefile	/^EXTRA_DIST = *.txt$/;"	m
+GLIBC21	doc/drafts/Makefile	/^GLIBC21 = no$/;"	m
+GMSGFMT	doc/drafts/Makefile	/^GMSGFMT = :$/;"	m
+INSTALL	doc/drafts/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL_DATA	doc/drafts/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_HEADER	doc/drafts/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_PROGRAM	doc/drafts/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	doc/drafts/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_STRIP_PROGRAM	doc/drafts/Makefile	/^INSTALL_STRIP_PROGRAM = ${SHELL} $(install_sh) -c -s$/;"	m
+INTLBISON	doc/drafts/Makefile	/^INTLBISON = bison$/;"	m
+INTLLIBS	doc/drafts/Makefile	/^INTLLIBS = $/;"	m
+LDFLAGS	doc/drafts/Makefile	/^LDFLAGS = $/;"	m
+LIBICONV	doc/drafts/Makefile	/^LIBICONV = -liconv$/;"	m
+LIBINTL	doc/drafts/Makefile	/^LIBINTL = $/;"	m
+LIBOBJS	doc/drafts/Makefile	/^LIBOBJS = $/;"	m
+LIBS	doc/drafts/Makefile	/^LIBS = $/;"	m
+LTLIBICONV	doc/drafts/Makefile	/^LTLIBICONV = -liconv$/;"	m
+LTLIBINTL	doc/drafts/Makefile	/^LTLIBINTL = $/;"	m
+LTLIBOBJS	doc/drafts/Makefile	/^LTLIBOBJS = $/;"	m
+MAINTAINERCLEANFILES	doc/drafts/Makefile	/^MAINTAINERCLEANFILES = corerw.png resolve.png *.xml~$/;"	m
+MAKEINFO	doc/drafts/Makefile	/^MAKEINFO = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run makeinfo$/;"	m
+MKINSTALLDIRS	doc/drafts/Makefile	/^MKINSTALLDIRS = .\/mkinstalldirs$/;"	m
+MSGFMT	doc/drafts/Makefile	/^MSGFMT = :$/;"	m
+MSGMERGE	doc/drafts/Makefile	/^MSGMERGE = :$/;"	m
+NEED_GETOPT_FALSE	doc/drafts/Makefile	/^NEED_GETOPT_FALSE = $/;"	m
+NEED_GETOPT_TRUE	doc/drafts/Makefile	/^NEED_GETOPT_TRUE = #$/;"	m
+NORMAL_INSTALL	doc/drafts/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_UNINSTALL	doc/drafts/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+OBJEXT	doc/drafts/Makefile	/^OBJEXT = o$/;"	m
+PACKAGE	doc/drafts/Makefile	/^PACKAGE = netcat$/;"	m
+PACKAGE_BUGREPORT	doc/drafts/Makefile	/^PACKAGE_BUGREPORT = $/;"	m
+PACKAGE_NAME	doc/drafts/Makefile	/^PACKAGE_NAME = $/;"	m
+PACKAGE_STRING	doc/drafts/Makefile	/^PACKAGE_STRING = $/;"	m
+PACKAGE_TARNAME	doc/drafts/Makefile	/^PACKAGE_TARNAME = $/;"	m
+PACKAGE_VERSION	doc/drafts/Makefile	/^PACKAGE_VERSION = $/;"	m
+PATH_SEPARATOR	doc/drafts/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PERL	doc/drafts/Makefile	/^PERL = \/usr\/bin\/perl$/;"	m
+POD2MAN	doc/drafts/Makefile	/^POD2MAN = \/usr\/bin\/pod2man$/;"	m
+POST_INSTALL	doc/drafts/Makefile	/^POST_INSTALL = :$/;"	m
+POST_UNINSTALL	doc/drafts/Makefile	/^POST_UNINSTALL = :$/;"	m
+POSUB	doc/drafts/Makefile	/^POSUB = $/;"	m
+PRE_INSTALL	doc/drafts/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_UNINSTALL	doc/drafts/Makefile	/^PRE_UNINSTALL = :$/;"	m
+RANLIB	doc/drafts/Makefile	/^RANLIB = ranlib$/;"	m
+SET_MAKE	doc/drafts/Makefile	/^SET_MAKE = $/;"	m
+SHELL	doc/drafts/Makefile	/^SHELL = \/bin\/sh$/;"	m
+STRIP	doc/drafts/Makefile	/^STRIP = $/;"	m
+USE_NLS	doc/drafts/Makefile	/^USE_NLS = no$/;"	m
+VERSION	doc/drafts/Makefile	/^VERSION = 0.7.1$/;"	m
+XGETTEXT	doc/drafts/Makefile	/^XGETTEXT = :$/;"	m
+ac_ct_CC	doc/drafts/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_RANLIB	doc/drafts/Makefile	/^ac_ct_RANLIB = @ac_ct_RANLIB@$/;"	m
+ac_ct_STRIP	doc/drafts/Makefile	/^ac_ct_STRIP = @ac_ct_STRIP@$/;"	m
+all_includes	doc/drafts/Makefile	/^all_includes =  $/;"	m
+all_libraries	doc/drafts/Makefile	/^all_libraries =  $/;"	m
+am__cd	doc/drafts/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__depfiles_maybe	doc/drafts/Makefile	/^am__depfiles_maybe =$/;"	m
+am__fastdepCC_FALSE	doc/drafts/Makefile	/^am__fastdepCC_FALSE = $/;"	m
+am__fastdepCC_TRUE	doc/drafts/Makefile	/^am__fastdepCC_TRUE = #$/;"	m
+am__include	doc/drafts/Makefile	/^am__include = include$/;"	m
+am__leading_dot	doc/drafts/Makefile	/^am__leading_dot = .$/;"	m
+am__quote	doc/drafts/Makefile	/^am__quote = $/;"	m
+bindir	doc/drafts/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+build	doc/drafts/Makefile	/^build = i686-apple-darwin14.3.0$/;"	m
+build_alias	doc/drafts/Makefile	/^build_alias = $/;"	m
+build_cpu	doc/drafts/Makefile	/^build_cpu = i686$/;"	m
+build_os	doc/drafts/Makefile	/^build_os = darwin14.3.0$/;"	m
+build_triplet	doc/drafts/Makefile	/^build_triplet = i686-apple-darwin14.3.0$/;"	m
+build_vendor	doc/drafts/Makefile	/^build_vendor = apple$/;"	m
+datadir	doc/drafts/Makefile	/^datadir = ${prefix}\/share$/;"	m
+depcomp	doc/drafts/Makefile	/^depcomp =$/;"	m
+distdir	doc/drafts/Makefile	/^distdir = $(top_distdir)\/$(PACKAGE)-$(VERSION)$/;"	m
+exec_prefix	doc/drafts/Makefile	/^exec_prefix = ${prefix}$/;"	m
+host	doc/drafts/Makefile	/^host = i686-apple-darwin14.3.0$/;"	m
+host_alias	doc/drafts/Makefile	/^host_alias = $/;"	m
+host_cpu	doc/drafts/Makefile	/^host_cpu = i686$/;"	m
+host_os	doc/drafts/Makefile	/^host_os = darwin14.3.0$/;"	m
+host_triplet	doc/drafts/Makefile	/^host_triplet = i686-apple-darwin14.3.0$/;"	m
+host_vendor	doc/drafts/Makefile	/^host_vendor = apple$/;"	m
+includedir	doc/drafts/Makefile	/^includedir = ${prefix}\/include$/;"	m
+infodir	doc/drafts/Makefile	/^infodir = ${prefix}\/share\/info$/;"	m
+install_sh	doc/drafts/Makefile	/^install_sh = \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/install-sh$/;"	m
+install_sh_DATA	doc/drafts/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_PROGRAM	doc/drafts/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	doc/drafts/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+libdir	doc/drafts/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libexecdir	doc/drafts/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+localstatedir	doc/drafts/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+mandir	doc/drafts/Makefile	/^mandir = ${prefix}\/share\/man$/;"	m
+mkinstalldirs	doc/drafts/Makefile	/^mkinstalldirs = $(SHELL) $(top_srcdir)\/mkinstalldirs$/;"	m
+oldincludedir	doc/drafts/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+pkgdatadir	doc/drafts/Makefile	/^pkgdatadir = $(datadir)\/netcat$/;"	m
+pkgincludedir	doc/drafts/Makefile	/^pkgincludedir = $(includedir)\/netcat$/;"	m
+pkglibdir	doc/drafts/Makefile	/^pkglibdir = $(libdir)\/netcat$/;"	m
+prefix	doc/drafts/Makefile	/^prefix = \/usr\/local$/;"	m
+program_transform_name	doc/drafts/Makefile	/^program_transform_name = s,x,x,$/;"	m
+sbindir	doc/drafts/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sharedstatedir	doc/drafts/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+srcdir	doc/drafts/Makefile	/^srcdir = .$/;"	m
+subdir	doc/drafts/Makefile	/^subdir = doc\/drafts$/;"	m
+sysconfdir	doc/drafts/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+target	doc/drafts/Makefile	/^target = i686-apple-darwin14.3.0$/;"	m
+target_alias	doc/drafts/Makefile	/^target_alias = $/;"	m
+target_cpu	doc/drafts/Makefile	/^target_cpu = i686$/;"	m
+target_os	doc/drafts/Makefile	/^target_os = darwin14.3.0$/;"	m
+target_triplet	doc/drafts/Makefile	/^target_triplet = i686-apple-darwin14.3.0$/;"	m
+target_vendor	doc/drafts/Makefile	/^target_vendor = apple$/;"	m
+top_builddir	doc/drafts/Makefile	/^top_builddir = ..\/..$/;"	m
+top_distdir	doc/drafts/Makefile	/^top_distdir = ..\/..$/;"	m
+top_srcdir	doc/drafts/Makefile	/^top_srcdir = ..\/..$/;"	m
+transform	doc/drafts/Makefile	/^transform = $(program_transform_name)$/;"	m
+add_footnote	doc/texi2pod.pl	/^sub add_footnote$/;"	s
+gensym	doc/texi2pod.pl	/^    sub gensym$/;"	s
+postprocess	doc/texi2pod.pl	/^sub postprocess$/;"	s
+unmunge	doc/texi2pod.pl	/^sub unmunge$/;"	s
+usage	doc/texi2pod.pl	/^sub usage$/;"	s
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+ACLOCAL	lib/Makefile	/^ACLOCAL = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run aclocal-1.7$/;"	m
+ACLOCAL_M4	lib/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ALLOCA	lib/Makefile	/^ALLOCA = $/;"	m
+AMDEP_FALSE	lib/Makefile	/^AMDEP_FALSE = #$/;"	m
+AMDEP_TRUE	lib/Makefile	/^AMDEP_TRUE = $/;"	m
+AMTAR	lib/Makefile	/^AMTAR = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run tar$/;"	m
+AUTOCONF	lib/Makefile	/^AUTOCONF = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run autoconf$/;"	m
+AUTOHEADER	lib/Makefile	/^AUTOHEADER = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run autoheader$/;"	m
+AUTOMAKE	lib/Makefile	/^AUTOMAKE = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run automake-1.7$/;"	m
+AWK	lib/Makefile	/^AWK = awk$/;"	m
+CC	lib/Makefile	/^CC = gcc$/;"	m
+CCDEPMODE	lib/Makefile	/^CCDEPMODE = depmode=none$/;"	m
+CFLAGS	lib/Makefile	/^CFLAGS = -g -O2 -Wall$/;"	m
+CONFIG_CLEAN_FILES	lib/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_HEADER	lib/Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/;"	m
+CONTRIBLIBS	lib/Makefile	/^CONTRIBLIBS = $/;"	m
+CPP	lib/Makefile	/^CPP = gcc -E$/;"	m
+CPPFLAGS	lib/Makefile	/^CPPFLAGS = $/;"	m
+CTAGS	lib/Makefile	/^CTAGS = ctags$/;"	m
+CTAGSFLAGS	lib/Makefile	/^CTAGSFLAGS =$/;"	m
+CYGPATH_W	lib/Makefile	/^CYGPATH_W = echo$/;"	m
+DEFS	lib/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEPDIR	lib/Makefile	/^DEPDIR = .deps$/;"	m
+DISTFILES	lib/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DIST_COMMON	lib/Makefile	/^DIST_COMMON = Makefile.am Makefile.in$/;"	m
+DIST_SOURCES	lib/Makefile	/^DIST_SOURCES =$/;"	m
+DIST_SUBDIRS	lib/Makefile	/^DIST_SUBDIRS = $(SUBDIRS)$/;"	m
+ECHO_C	lib/Makefile	/^ECHO_C = \\c$/;"	m
+ECHO_N	lib/Makefile	/^ECHO_N = $/;"	m
+ECHO_T	lib/Makefile	/^ECHO_T = $/;"	m
+EGREP	lib/Makefile	/^EGREP = \/usr\/bin\/grep -E$/;"	m
+ETAGS	lib/Makefile	/^ETAGS = etags$/;"	m
+ETAGSFLAGS	lib/Makefile	/^ETAGSFLAGS =$/;"	m
+EXEEXT	lib/Makefile	/^EXEEXT = $/;"	m
+GLIBC21	lib/Makefile	/^GLIBC21 = no$/;"	m
+GMSGFMT	lib/Makefile	/^GMSGFMT = :$/;"	m
+INSTALL	lib/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL_DATA	lib/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_HEADER	lib/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_PROGRAM	lib/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	lib/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_STRIP_PROGRAM	lib/Makefile	/^INSTALL_STRIP_PROGRAM = ${SHELL} $(install_sh) -c -s$/;"	m
+INTLBISON	lib/Makefile	/^INTLBISON = bison$/;"	m
+INTLLIBS	lib/Makefile	/^INTLLIBS = $/;"	m
+LDFLAGS	lib/Makefile	/^LDFLAGS = $/;"	m
+LIBICONV	lib/Makefile	/^LIBICONV = -liconv$/;"	m
+LIBINTL	lib/Makefile	/^LIBINTL = $/;"	m
+LIBOBJS	lib/Makefile	/^LIBOBJS = $/;"	m
+LIBS	lib/Makefile	/^LIBS = $/;"	m
+LTLIBICONV	lib/Makefile	/^LTLIBICONV = -liconv$/;"	m
+LTLIBINTL	lib/Makefile	/^LTLIBINTL = $/;"	m
+LTLIBOBJS	lib/Makefile	/^LTLIBOBJS = $/;"	m
+MAKEINFO	lib/Makefile	/^MAKEINFO = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run makeinfo$/;"	m
+MKINSTALLDIRS	lib/Makefile	/^MKINSTALLDIRS = .\/mkinstalldirs$/;"	m
+MSGFMT	lib/Makefile	/^MSGFMT = :$/;"	m
+MSGMERGE	lib/Makefile	/^MSGMERGE = :$/;"	m
+NEED_GETOPT_FALSE	lib/Makefile	/^NEED_GETOPT_FALSE = $/;"	m
+NEED_GETOPT_TRUE	lib/Makefile	/^NEED_GETOPT_TRUE = #$/;"	m
+NORMAL_INSTALL	lib/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_UNINSTALL	lib/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+OBJEXT	lib/Makefile	/^OBJEXT = o$/;"	m
+PACKAGE	lib/Makefile	/^PACKAGE = netcat$/;"	m
+PACKAGE_BUGREPORT	lib/Makefile	/^PACKAGE_BUGREPORT = $/;"	m
+PACKAGE_NAME	lib/Makefile	/^PACKAGE_NAME = $/;"	m
+PACKAGE_STRING	lib/Makefile	/^PACKAGE_STRING = $/;"	m
+PACKAGE_TARNAME	lib/Makefile	/^PACKAGE_TARNAME = $/;"	m
+PACKAGE_VERSION	lib/Makefile	/^PACKAGE_VERSION = $/;"	m
+PATH_SEPARATOR	lib/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PERL	lib/Makefile	/^PERL = \/usr\/bin\/perl$/;"	m
+POD2MAN	lib/Makefile	/^POD2MAN = \/usr\/bin\/pod2man$/;"	m
+POST_INSTALL	lib/Makefile	/^POST_INSTALL = :$/;"	m
+POST_UNINSTALL	lib/Makefile	/^POST_UNINSTALL = :$/;"	m
+POSUB	lib/Makefile	/^POSUB = $/;"	m
+PRE_INSTALL	lib/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_UNINSTALL	lib/Makefile	/^PRE_UNINSTALL = :$/;"	m
+RANLIB	lib/Makefile	/^RANLIB = ranlib$/;"	m
+RECURSIVE_TARGETS	lib/Makefile	/^RECURSIVE_TARGETS = info-recursive dvi-recursive pdf-recursive \\$/;"	m
+SET_MAKE	lib/Makefile	/^SET_MAKE = $/;"	m
+SHELL	lib/Makefile	/^SHELL = \/bin\/sh$/;"	m
+STRIP	lib/Makefile	/^STRIP = $/;"	m
+SUBDIRS	lib/Makefile	/^SUBDIRS = contrib$/;"	m
+USE_NLS	lib/Makefile	/^USE_NLS = no$/;"	m
+VERSION	lib/Makefile	/^VERSION = 0.7.1$/;"	m
+XGETTEXT	lib/Makefile	/^XGETTEXT = :$/;"	m
+ac_ct_CC	lib/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_RANLIB	lib/Makefile	/^ac_ct_RANLIB = @ac_ct_RANLIB@$/;"	m
+ac_ct_STRIP	lib/Makefile	/^ac_ct_STRIP = @ac_ct_STRIP@$/;"	m
+all_includes	lib/Makefile	/^all_includes =  $/;"	m
+all_libraries	lib/Makefile	/^all_libraries =  $/;"	m
+am__cd	lib/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__depfiles_maybe	lib/Makefile	/^am__depfiles_maybe =$/;"	m
+am__fastdepCC_FALSE	lib/Makefile	/^am__fastdepCC_FALSE = $/;"	m
+am__fastdepCC_TRUE	lib/Makefile	/^am__fastdepCC_TRUE = #$/;"	m
+am__include	lib/Makefile	/^am__include = include$/;"	m
+am__leading_dot	lib/Makefile	/^am__leading_dot = .$/;"	m
+am__quote	lib/Makefile	/^am__quote = $/;"	m
+bindir	lib/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+build	lib/Makefile	/^build = i686-apple-darwin14.3.0$/;"	m
+build_alias	lib/Makefile	/^build_alias = $/;"	m
+build_cpu	lib/Makefile	/^build_cpu = i686$/;"	m
+build_os	lib/Makefile	/^build_os = darwin14.3.0$/;"	m
+build_triplet	lib/Makefile	/^build_triplet = i686-apple-darwin14.3.0$/;"	m
+build_vendor	lib/Makefile	/^build_vendor = apple$/;"	m
+datadir	lib/Makefile	/^datadir = ${prefix}\/share$/;"	m
+depcomp	lib/Makefile	/^depcomp =$/;"	m
+distdir	lib/Makefile	/^distdir = $(top_distdir)\/$(PACKAGE)-$(VERSION)$/;"	m
+exec_prefix	lib/Makefile	/^exec_prefix = ${prefix}$/;"	m
+host	lib/Makefile	/^host = i686-apple-darwin14.3.0$/;"	m
+host_alias	lib/Makefile	/^host_alias = $/;"	m
+host_cpu	lib/Makefile	/^host_cpu = i686$/;"	m
+host_os	lib/Makefile	/^host_os = darwin14.3.0$/;"	m
+host_triplet	lib/Makefile	/^host_triplet = i686-apple-darwin14.3.0$/;"	m
+host_vendor	lib/Makefile	/^host_vendor = apple$/;"	m
+includedir	lib/Makefile	/^includedir = ${prefix}\/include$/;"	m
+infodir	lib/Makefile	/^infodir = ${prefix}\/share\/info$/;"	m
+install_sh	lib/Makefile	/^install_sh = \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/install-sh$/;"	m
+install_sh_DATA	lib/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_PROGRAM	lib/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	lib/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+libdir	lib/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libexecdir	lib/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+list	lib/Makefile	/^	list='$(SUBDIRS)'; for subdir in $$list; do \\$/;"	m
+localstatedir	lib/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+mandir	lib/Makefile	/^mandir = ${prefix}\/share\/man$/;"	m
+mkinstalldirs	lib/Makefile	/^mkinstalldirs = $(SHELL) $(top_srcdir)\/mkinstalldirs$/;"	m
+oldincludedir	lib/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+pkgdatadir	lib/Makefile	/^pkgdatadir = $(datadir)\/netcat$/;"	m
+pkgincludedir	lib/Makefile	/^pkgincludedir = $(includedir)\/netcat$/;"	m
+pkglibdir	lib/Makefile	/^pkglibdir = $(libdir)\/netcat$/;"	m
+prefix	lib/Makefile	/^prefix = \/usr\/local$/;"	m
+program_transform_name	lib/Makefile	/^program_transform_name = s,x,x,$/;"	m
+sbindir	lib/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sharedstatedir	lib/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+srcdir	lib/Makefile	/^srcdir = .$/;"	m
+subdir	lib/Makefile	/^subdir = lib$/;"	m
+sysconfdir	lib/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+target	lib/Makefile	/^target = i686-apple-darwin14.3.0$/;"	m
+target_alias	lib/Makefile	/^target_alias = $/;"	m
+target_cpu	lib/Makefile	/^target_cpu = i686$/;"	m
+target_os	lib/Makefile	/^target_os = darwin14.3.0$/;"	m
+target_triplet	lib/Makefile	/^target_triplet = i686-apple-darwin14.3.0$/;"	m
+target_vendor	lib/Makefile	/^target_vendor = apple$/;"	m
+top_builddir	lib/Makefile	/^top_builddir = ..$/;"	m
+top_distdir	lib/Makefile	/^top_distdir = ..$/;"	m
+top_srcdir	lib/Makefile	/^top_srcdir = ..$/;"	m
+transform	lib/Makefile	/^transform = $(program_transform_name)$/;"	m
+ACLOCAL	lib/contrib/Makefile	/^ACLOCAL = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run aclocal-1.7$/;"	m
+ACLOCAL_M4	lib/contrib/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ALLOCA	lib/contrib/Makefile	/^ALLOCA = $/;"	m
+AMDEP_FALSE	lib/contrib/Makefile	/^AMDEP_FALSE = #$/;"	m
+AMDEP_TRUE	lib/contrib/Makefile	/^AMDEP_TRUE = $/;"	m
+AMTAR	lib/contrib/Makefile	/^AMTAR = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run tar$/;"	m
+AR	lib/contrib/Makefile	/^AR = ar$/;"	m
+AUTOCONF	lib/contrib/Makefile	/^AUTOCONF = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run autoconf$/;"	m
+AUTOHEADER	lib/contrib/Makefile	/^AUTOHEADER = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run autoheader$/;"	m
+AUTOMAKE	lib/contrib/Makefile	/^AUTOMAKE = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run automake-1.7$/;"	m
+AWK	lib/contrib/Makefile	/^AWK = awk$/;"	m
+CC	lib/contrib/Makefile	/^CC = gcc$/;"	m
+CCDEPMODE	lib/contrib/Makefile	/^CCDEPMODE = depmode=none$/;"	m
+CCLD	lib/contrib/Makefile	/^CCLD = $(CC)$/;"	m
+CFLAGS	lib/contrib/Makefile	/^CFLAGS = -g -O2 -Wall$/;"	m
+COMPILE	lib/contrib/Makefile	/^COMPILE = $(CC) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) $(AM_CPPFLAGS) \\$/;"	m
+CONFIG_CLEAN_FILES	lib/contrib/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_HEADER	lib/contrib/Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/;"	m
+CONTRIBLIBS	lib/contrib/Makefile	/^CONTRIBLIBS = $/;"	m
+CPP	lib/contrib/Makefile	/^CPP = gcc -E$/;"	m
+CPPFLAGS	lib/contrib/Makefile	/^CPPFLAGS = $/;"	m
+CTAGS	lib/contrib/Makefile	/^CTAGS = ctags$/;"	m
+CTAGSFLAGS	lib/contrib/Makefile	/^CTAGSFLAGS =$/;"	m
+CYGPATH_W	lib/contrib/Makefile	/^CYGPATH_W = echo$/;"	m
+DEFAULT_INCLUDES	lib/contrib/Makefile	/^DEFAULT_INCLUDES =  -I. -I$(srcdir) -I$(top_builddir)$/;"	m
+DEFS	lib/contrib/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEPDIR	lib/contrib/Makefile	/^DEPDIR = .deps$/;"	m
+DISTFILES	lib/contrib/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DIST_COMMON	lib/contrib/Makefile	/^DIST_COMMON = Makefile.am Makefile.in$/;"	m
+DIST_SOURCES	lib/contrib/Makefile	/^DIST_SOURCES = $(am__libcontrib_a_SOURCES_DIST)$/;"	m
+ECHO_C	lib/contrib/Makefile	/^ECHO_C = \\c$/;"	m
+ECHO_N	lib/contrib/Makefile	/^ECHO_N = $/;"	m
+ECHO_T	lib/contrib/Makefile	/^ECHO_T = $/;"	m
+EGREP	lib/contrib/Makefile	/^EGREP = \/usr\/bin\/grep -E$/;"	m
+ETAGS	lib/contrib/Makefile	/^ETAGS = etags$/;"	m
+ETAGSFLAGS	lib/contrib/Makefile	/^ETAGSFLAGS =$/;"	m
+EXEEXT	lib/contrib/Makefile	/^EXEEXT = $/;"	m
+EXTRA_DIST	lib/contrib/Makefile	/^EXTRA_DIST = *.h *.c$/;"	m
+GLIBC21	lib/contrib/Makefile	/^GLIBC21 = no$/;"	m
+GMSGFMT	lib/contrib/Makefile	/^GMSGFMT = :$/;"	m
+INSTALL	lib/contrib/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL_DATA	lib/contrib/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_HEADER	lib/contrib/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_PROGRAM	lib/contrib/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	lib/contrib/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_STRIP_PROGRAM	lib/contrib/Makefile	/^INSTALL_STRIP_PROGRAM = ${SHELL} $(install_sh) -c -s$/;"	m
+INTLBISON	lib/contrib/Makefile	/^INTLBISON = bison$/;"	m
+INTLLIBS	lib/contrib/Makefile	/^INTLLIBS = $/;"	m
+LDFLAGS	lib/contrib/Makefile	/^LDFLAGS = $/;"	m
+LIBICONV	lib/contrib/Makefile	/^LIBICONV = -liconv$/;"	m
+LIBINTL	lib/contrib/Makefile	/^LIBINTL = $/;"	m
+LIBOBJS	lib/contrib/Makefile	/^LIBOBJS = $/;"	m
+LIBRARIES	lib/contrib/Makefile	/^LIBRARIES = $(noinst_LIBRARIES)$/;"	m
+LIBS	lib/contrib/Makefile	/^LIBS = $/;"	m
+LINK	lib/contrib/Makefile	/^LINK = $(CCLD) $(AM_CFLAGS) $(CFLAGS) $(AM_LDFLAGS) $(LDFLAGS) -o $@$/;"	m
+LTLIBICONV	lib/contrib/Makefile	/^LTLIBICONV = -liconv$/;"	m
+LTLIBINTL	lib/contrib/Makefile	/^LTLIBINTL = $/;"	m
+LTLIBOBJS	lib/contrib/Makefile	/^LTLIBOBJS = $/;"	m
+MAKEINFO	lib/contrib/Makefile	/^MAKEINFO = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run makeinfo$/;"	m
+MKINSTALLDIRS	lib/contrib/Makefile	/^MKINSTALLDIRS = .\/mkinstalldirs$/;"	m
+MSGFMT	lib/contrib/Makefile	/^MSGFMT = :$/;"	m
+MSGMERGE	lib/contrib/Makefile	/^MSGMERGE = :$/;"	m
+NEED_GETOPT_FALSE	lib/contrib/Makefile	/^NEED_GETOPT_FALSE = $/;"	m
+NEED_GETOPT_TRUE	lib/contrib/Makefile	/^NEED_GETOPT_TRUE = #$/;"	m
+NORMAL_INSTALL	lib/contrib/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_UNINSTALL	lib/contrib/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+OBJEXT	lib/contrib/Makefile	/^OBJEXT = o$/;"	m
+PACKAGE	lib/contrib/Makefile	/^PACKAGE = netcat$/;"	m
+PACKAGE_BUGREPORT	lib/contrib/Makefile	/^PACKAGE_BUGREPORT = $/;"	m
+PACKAGE_NAME	lib/contrib/Makefile	/^PACKAGE_NAME = $/;"	m
+PACKAGE_STRING	lib/contrib/Makefile	/^PACKAGE_STRING = $/;"	m
+PACKAGE_TARNAME	lib/contrib/Makefile	/^PACKAGE_TARNAME = $/;"	m
+PACKAGE_VERSION	lib/contrib/Makefile	/^PACKAGE_VERSION = $/;"	m
+PATH_SEPARATOR	lib/contrib/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PERL	lib/contrib/Makefile	/^PERL = \/usr\/bin\/perl$/;"	m
+POD2MAN	lib/contrib/Makefile	/^POD2MAN = \/usr\/bin\/pod2man$/;"	m
+POST_INSTALL	lib/contrib/Makefile	/^POST_INSTALL = :$/;"	m
+POST_UNINSTALL	lib/contrib/Makefile	/^POST_UNINSTALL = :$/;"	m
+POSUB	lib/contrib/Makefile	/^POSUB = $/;"	m
+PRE_INSTALL	lib/contrib/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_UNINSTALL	lib/contrib/Makefile	/^PRE_UNINSTALL = :$/;"	m
+RANLIB	lib/contrib/Makefile	/^RANLIB = ranlib$/;"	m
+SET_MAKE	lib/contrib/Makefile	/^SET_MAKE = $/;"	m
+SHELL	lib/contrib/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SOURCES	lib/contrib/Makefile	/^SOURCES = $(libcontrib_a_SOURCES)$/;"	m
+STRIP	lib/contrib/Makefile	/^STRIP = $/;"	m
+USE_NLS	lib/contrib/Makefile	/^USE_NLS = no$/;"	m
+VERSION	lib/contrib/Makefile	/^VERSION = 0.7.1$/;"	m
+XGETTEXT	lib/contrib/Makefile	/^XGETTEXT = :$/;"	m
+ac_ct_CC	lib/contrib/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_RANLIB	lib/contrib/Makefile	/^ac_ct_RANLIB = @ac_ct_RANLIB@$/;"	m
+ac_ct_STRIP	lib/contrib/Makefile	/^ac_ct_STRIP = @ac_ct_STRIP@$/;"	m
+all_includes	lib/contrib/Makefile	/^all_includes =  $/;"	m
+all_libraries	lib/contrib/Makefile	/^all_libraries =  $/;"	m
+am__cd	lib/contrib/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__depfiles_maybe	lib/contrib/Makefile	/^am__depfiles_maybe =$/;"	m
+am__fastdepCC_FALSE	lib/contrib/Makefile	/^am__fastdepCC_FALSE = $/;"	m
+am__fastdepCC_TRUE	lib/contrib/Makefile	/^am__fastdepCC_TRUE = #$/;"	m
+am__include	lib/contrib/Makefile	/^am__include = include$/;"	m
+am__leading_dot	lib/contrib/Makefile	/^am__leading_dot = .$/;"	m
+am__libcontrib_a_SOURCES_DIST	lib/contrib/Makefile	/^am__libcontrib_a_SOURCES_DIST = getopt.c getopt1.c$/;"	m
+am__quote	lib/contrib/Makefile	/^am__quote = $/;"	m
+bindir	lib/contrib/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+build	lib/contrib/Makefile	/^build = i686-apple-darwin14.3.0$/;"	m
+build_alias	lib/contrib/Makefile	/^build_alias = $/;"	m
+build_cpu	lib/contrib/Makefile	/^build_cpu = i686$/;"	m
+build_os	lib/contrib/Makefile	/^build_os = darwin14.3.0$/;"	m
+build_triplet	lib/contrib/Makefile	/^build_triplet = i686-apple-darwin14.3.0$/;"	m
+build_vendor	lib/contrib/Makefile	/^build_vendor = apple$/;"	m
+datadir	lib/contrib/Makefile	/^datadir = ${prefix}\/share$/;"	m
+depcomp	lib/contrib/Makefile	/^depcomp =$/;"	m
+distdir	lib/contrib/Makefile	/^distdir = $(top_distdir)\/$(PACKAGE)-$(VERSION)$/;"	m
+exec_prefix	lib/contrib/Makefile	/^exec_prefix = ${prefix}$/;"	m
+host	lib/contrib/Makefile	/^host = i686-apple-darwin14.3.0$/;"	m
+host_alias	lib/contrib/Makefile	/^host_alias = $/;"	m
+host_cpu	lib/contrib/Makefile	/^host_cpu = i686$/;"	m
+host_os	lib/contrib/Makefile	/^host_os = darwin14.3.0$/;"	m
+host_triplet	lib/contrib/Makefile	/^host_triplet = i686-apple-darwin14.3.0$/;"	m
+host_vendor	lib/contrib/Makefile	/^host_vendor = apple$/;"	m
+includedir	lib/contrib/Makefile	/^includedir = ${prefix}\/include$/;"	m
+infodir	lib/contrib/Makefile	/^infodir = ${prefix}\/share\/info$/;"	m
+install_sh	lib/contrib/Makefile	/^install_sh = \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/install-sh$/;"	m
+install_sh_DATA	lib/contrib/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_PROGRAM	lib/contrib/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	lib/contrib/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+libcontrib_a_AR	lib/contrib/Makefile	/^libcontrib_a_AR = $(AR) cru$/;"	m
+libcontrib_a_LIBADD	lib/contrib/Makefile	/^libcontrib_a_LIBADD =$/;"	m
+libcontrib_a_OBJECTS	lib/contrib/Makefile	/^libcontrib_a_OBJECTS = $(am_libcontrib_a_OBJECTS)$/;"	m
+libdir	lib/contrib/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libexecdir	lib/contrib/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+localstatedir	lib/contrib/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+mandir	lib/contrib/Makefile	/^mandir = ${prefix}\/share\/man$/;"	m
+mkinstalldirs	lib/contrib/Makefile	/^mkinstalldirs = $(SHELL) $(top_srcdir)\/mkinstalldirs$/;"	m
+oldincludedir	lib/contrib/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+pkgdatadir	lib/contrib/Makefile	/^pkgdatadir = $(datadir)\/netcat$/;"	m
+pkgincludedir	lib/contrib/Makefile	/^pkgincludedir = $(includedir)\/netcat$/;"	m
+pkglibdir	lib/contrib/Makefile	/^pkglibdir = $(libdir)\/netcat$/;"	m
+prefix	lib/contrib/Makefile	/^prefix = \/usr\/local$/;"	m
+program_transform_name	lib/contrib/Makefile	/^program_transform_name = s,x,x,$/;"	m
+sbindir	lib/contrib/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sharedstatedir	lib/contrib/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+srcdir	lib/contrib/Makefile	/^srcdir = .$/;"	m
+subdir	lib/contrib/Makefile	/^subdir = lib\/contrib$/;"	m
+sysconfdir	lib/contrib/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+target	lib/contrib/Makefile	/^target = i686-apple-darwin14.3.0$/;"	m
+target_alias	lib/contrib/Makefile	/^target_alias = $/;"	m
+target_cpu	lib/contrib/Makefile	/^target_cpu = i686$/;"	m
+target_os	lib/contrib/Makefile	/^target_os = darwin14.3.0$/;"	m
+target_triplet	lib/contrib/Makefile	/^target_triplet = i686-apple-darwin14.3.0$/;"	m
+target_vendor	lib/contrib/Makefile	/^target_vendor = apple$/;"	m
+top_builddir	lib/contrib/Makefile	/^top_builddir = ..\/..$/;"	m
+top_distdir	lib/contrib/Makefile	/^top_distdir = ..\/..$/;"	m
+top_srcdir	lib/contrib/Makefile	/^top_srcdir = ..\/..$/;"	m
+transform	lib/contrib/Makefile	/^transform = $(program_transform_name)$/;"	m
+ELIDE_CODE	lib/contrib/getopt.c	/^#  define ELIDE_CODE$/;"	d	file:
+GETOPT_INTERFACE_VERSION	lib/contrib/getopt.c	/^#define GETOPT_INTERFACE_VERSION /;"	d	file:
+NONOPTION_P	lib/contrib/getopt.c	/^# define NONOPTION_P /;"	d	file:
+PERMUTE	lib/contrib/getopt.c	/^  REQUIRE_ORDER, PERMUTE, RETURN_IN_ORDER$/;"	e	enum:__anon1	file:
+REQUIRE_ORDER	lib/contrib/getopt.c	/^  REQUIRE_ORDER, PERMUTE, RETURN_IN_ORDER$/;"	e	enum:__anon1	file:
+RETURN_IN_ORDER	lib/contrib/getopt.c	/^  REQUIRE_ORDER, PERMUTE, RETURN_IN_ORDER$/;"	e	enum:__anon1	file:
+SWAP_FLAGS	lib/contrib/getopt.c	/^#  define SWAP_FLAGS(/;"	d	file:
+SWAP_FLAGS	lib/contrib/getopt.c	/^# define SWAP_FLAGS(/;"	d	file:
+_	lib/contrib/getopt.c	/^#   define _(/;"	d	file:
+_	lib/contrib/getopt.c	/^#  define _(/;"	d	file:
+_NO_PROTO	lib/contrib/getopt.c	/^# define _NO_PROTO$/;"	d	file:
+__getopt_initialized	lib/contrib/getopt.c	/^int __getopt_initialized;$/;"	v
+_getopt_initialize	lib/contrib/getopt.c	/^_getopt_initialize (argc, argv, optstring)$/;"	f	file:
+_getopt_internal	lib/contrib/getopt.c	/^_getopt_internal (argc, argv, optstring, longopts, longind, long_only)$/;"	f
+const	lib/contrib/getopt.c	/^#  define const$/;"	d	file:
+exchange	lib/contrib/getopt.c	/^exchange (argv)$/;"	f	file:
+first_nonopt	lib/contrib/getopt.c	/^static int first_nonopt;$/;"	v	file:
+getopt	lib/contrib/getopt.c	/^getopt (argc, argv, optstring)$/;"	f
+last_nonopt	lib/contrib/getopt.c	/^static int last_nonopt;$/;"	v	file:
+main	lib/contrib/getopt.c	/^main (argc, argv)$/;"	f
+my_index	lib/contrib/getopt.c	/^# define my_index	/;"	d	file:
+my_index	lib/contrib/getopt.c	/^my_index (str, chr)$/;"	f	file:
+nextchar	lib/contrib/getopt.c	/^static char *nextchar;$/;"	v	file:
+nonoption_flags_len	lib/contrib/getopt.c	/^static int nonoption_flags_len;$/;"	v	file:
+nonoption_flags_max_len	lib/contrib/getopt.c	/^static int nonoption_flags_max_len;$/;"	v	file:
+optarg	lib/contrib/getopt.c	/^char *optarg;$/;"	v
+opterr	lib/contrib/getopt.c	/^int opterr = 1;$/;"	v
+optind	lib/contrib/getopt.c	/^int optind = 1;$/;"	v
+optopt	lib/contrib/getopt.c	/^int optopt = '?';$/;"	v
+ordering	lib/contrib/getopt.c	/^} ordering;$/;"	v	typeref:enum:__anon1	file:
+posixly_correct	lib/contrib/getopt.c	/^static char *posixly_correct;$/;"	v	file:
+_GETOPT_H	lib/contrib/getopt.h	/^# define _GETOPT_H /;"	d
+__need_getopt	lib/contrib/getopt.h	/^#undef __need_getopt$/;"	d
+flag	lib/contrib/getopt.h	/^  int *flag;$/;"	m	struct:option
+has_arg	lib/contrib/getopt.h	/^  int has_arg;$/;"	m	struct:option
+name	lib/contrib/getopt.h	/^  const char *name;$/;"	m	struct:option
+no_argument	lib/contrib/getopt.h	/^# define no_argument	/;"	d
+option	lib/contrib/getopt.h	/^struct option$/;"	s
+optional_argument	lib/contrib/getopt.h	/^# define optional_argument	/;"	d
+required_argument	lib/contrib/getopt.h	/^# define required_argument	/;"	d
+val	lib/contrib/getopt.h	/^  int val;$/;"	m	struct:option
+ELIDE_CODE	lib/contrib/getopt1.c	/^#define ELIDE_CODE$/;"	d	file:
+GETOPT_INTERFACE_VERSION	lib/contrib/getopt1.c	/^#define GETOPT_INTERFACE_VERSION /;"	d	file:
+NULL	lib/contrib/getopt1.c	/^#define NULL /;"	d	file:
+const	lib/contrib/getopt1.c	/^#define const$/;"	d	file:
+getopt_long	lib/contrib/getopt1.c	/^getopt_long (argc, argv, options, long_options, opt_index)$/;"	f
+getopt_long_only	lib/contrib/getopt1.c	/^getopt_long_only (argc, argv, options, long_options, opt_index)$/;"	f
+main	lib/contrib/getopt1.c	/^main (argc, argv)$/;"	f
+ACLOCAL	m4/Makefile	/^ACLOCAL = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run aclocal-1.7$/;"	m
+ACLOCAL_M4	m4/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ALLOCA	m4/Makefile	/^ALLOCA = $/;"	m
+AMDEP_FALSE	m4/Makefile	/^AMDEP_FALSE = #$/;"	m
+AMDEP_TRUE	m4/Makefile	/^AMDEP_TRUE = $/;"	m
+AMTAR	m4/Makefile	/^AMTAR = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run tar$/;"	m
+AUTOCONF	m4/Makefile	/^AUTOCONF = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run autoconf$/;"	m
+AUTOHEADER	m4/Makefile	/^AUTOHEADER = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run autoheader$/;"	m
+AUTOMAKE	m4/Makefile	/^AUTOMAKE = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run automake-1.7$/;"	m
+AWK	m4/Makefile	/^AWK = awk$/;"	m
+CC	m4/Makefile	/^CC = gcc$/;"	m
+CCDEPMODE	m4/Makefile	/^CCDEPMODE = depmode=none$/;"	m
+CFLAGS	m4/Makefile	/^CFLAGS = -g -O2 -Wall$/;"	m
+CONFIG_CLEAN_FILES	m4/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_HEADER	m4/Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/;"	m
+CONTRIBLIBS	m4/Makefile	/^CONTRIBLIBS = $/;"	m
+CPP	m4/Makefile	/^CPP = gcc -E$/;"	m
+CPPFLAGS	m4/Makefile	/^CPPFLAGS = $/;"	m
+CYGPATH_W	m4/Makefile	/^CYGPATH_W = echo$/;"	m
+DEFS	m4/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEPDIR	m4/Makefile	/^DEPDIR = .deps$/;"	m
+DISTFILES	m4/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DIST_COMMON	m4/Makefile	/^DIST_COMMON = Makefile.am Makefile.in$/;"	m
+DIST_SOURCES	m4/Makefile	/^DIST_SOURCES =$/;"	m
+ECHO_C	m4/Makefile	/^ECHO_C = \\c$/;"	m
+ECHO_N	m4/Makefile	/^ECHO_N = $/;"	m
+ECHO_T	m4/Makefile	/^ECHO_T = $/;"	m
+EGREP	m4/Makefile	/^EGREP = \/usr\/bin\/grep -E$/;"	m
+EXEEXT	m4/Makefile	/^EXEEXT = $/;"	m
+EXTRA_DIST	m4/Makefile	/^EXTRA_DIST = codeset.m4 gettext.m4 glibc21.m4 iconv.m4 intdiv0.m4 \\$/;"	m
+GLIBC21	m4/Makefile	/^GLIBC21 = no$/;"	m
+GMSGFMT	m4/Makefile	/^GMSGFMT = :$/;"	m
+INSTALL	m4/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL_DATA	m4/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_HEADER	m4/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_PROGRAM	m4/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	m4/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_STRIP_PROGRAM	m4/Makefile	/^INSTALL_STRIP_PROGRAM = ${SHELL} $(install_sh) -c -s$/;"	m
+INTLBISON	m4/Makefile	/^INTLBISON = bison$/;"	m
+INTLLIBS	m4/Makefile	/^INTLLIBS = $/;"	m
+LDFLAGS	m4/Makefile	/^LDFLAGS = $/;"	m
+LIBICONV	m4/Makefile	/^LIBICONV = -liconv$/;"	m
+LIBINTL	m4/Makefile	/^LIBINTL = $/;"	m
+LIBOBJS	m4/Makefile	/^LIBOBJS = $/;"	m
+LIBS	m4/Makefile	/^LIBS = $/;"	m
+LTLIBICONV	m4/Makefile	/^LTLIBICONV = -liconv$/;"	m
+LTLIBINTL	m4/Makefile	/^LTLIBINTL = $/;"	m
+LTLIBOBJS	m4/Makefile	/^LTLIBOBJS = $/;"	m
+MAKEINFO	m4/Makefile	/^MAKEINFO = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run makeinfo$/;"	m
+MKINSTALLDIRS	m4/Makefile	/^MKINSTALLDIRS = .\/mkinstalldirs$/;"	m
+MSGFMT	m4/Makefile	/^MSGFMT = :$/;"	m
+MSGMERGE	m4/Makefile	/^MSGMERGE = :$/;"	m
+NEED_GETOPT_FALSE	m4/Makefile	/^NEED_GETOPT_FALSE = $/;"	m
+NEED_GETOPT_TRUE	m4/Makefile	/^NEED_GETOPT_TRUE = #$/;"	m
+NORMAL_INSTALL	m4/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_UNINSTALL	m4/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+OBJEXT	m4/Makefile	/^OBJEXT = o$/;"	m
+PACKAGE	m4/Makefile	/^PACKAGE = netcat$/;"	m
+PACKAGE_BUGREPORT	m4/Makefile	/^PACKAGE_BUGREPORT = $/;"	m
+PACKAGE_NAME	m4/Makefile	/^PACKAGE_NAME = $/;"	m
+PACKAGE_STRING	m4/Makefile	/^PACKAGE_STRING = $/;"	m
+PACKAGE_TARNAME	m4/Makefile	/^PACKAGE_TARNAME = $/;"	m
+PACKAGE_VERSION	m4/Makefile	/^PACKAGE_VERSION = $/;"	m
+PATH_SEPARATOR	m4/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PERL	m4/Makefile	/^PERL = \/usr\/bin\/perl$/;"	m
+POD2MAN	m4/Makefile	/^POD2MAN = \/usr\/bin\/pod2man$/;"	m
+POST_INSTALL	m4/Makefile	/^POST_INSTALL = :$/;"	m
+POST_UNINSTALL	m4/Makefile	/^POST_UNINSTALL = :$/;"	m
+POSUB	m4/Makefile	/^POSUB = $/;"	m
+PRE_INSTALL	m4/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_UNINSTALL	m4/Makefile	/^PRE_UNINSTALL = :$/;"	m
+RANLIB	m4/Makefile	/^RANLIB = ranlib$/;"	m
+SET_MAKE	m4/Makefile	/^SET_MAKE = $/;"	m
+SHELL	m4/Makefile	/^SHELL = \/bin\/sh$/;"	m
+STRIP	m4/Makefile	/^STRIP = $/;"	m
+USE_NLS	m4/Makefile	/^USE_NLS = no$/;"	m
+VERSION	m4/Makefile	/^VERSION = 0.7.1$/;"	m
+XGETTEXT	m4/Makefile	/^XGETTEXT = :$/;"	m
+ac_ct_CC	m4/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_RANLIB	m4/Makefile	/^ac_ct_RANLIB = @ac_ct_RANLIB@$/;"	m
+ac_ct_STRIP	m4/Makefile	/^ac_ct_STRIP = @ac_ct_STRIP@$/;"	m
+all_includes	m4/Makefile	/^all_includes =  $/;"	m
+all_libraries	m4/Makefile	/^all_libraries =  $/;"	m
+am__cd	m4/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__depfiles_maybe	m4/Makefile	/^am__depfiles_maybe =$/;"	m
+am__fastdepCC_FALSE	m4/Makefile	/^am__fastdepCC_FALSE = $/;"	m
+am__fastdepCC_TRUE	m4/Makefile	/^am__fastdepCC_TRUE = #$/;"	m
+am__include	m4/Makefile	/^am__include = include$/;"	m
+am__leading_dot	m4/Makefile	/^am__leading_dot = .$/;"	m
+am__quote	m4/Makefile	/^am__quote = $/;"	m
+bindir	m4/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+build	m4/Makefile	/^build = i686-apple-darwin14.3.0$/;"	m
+build_alias	m4/Makefile	/^build_alias = $/;"	m
+build_cpu	m4/Makefile	/^build_cpu = i686$/;"	m
+build_os	m4/Makefile	/^build_os = darwin14.3.0$/;"	m
+build_triplet	m4/Makefile	/^build_triplet = i686-apple-darwin14.3.0$/;"	m
+build_vendor	m4/Makefile	/^build_vendor = apple$/;"	m
+datadir	m4/Makefile	/^datadir = ${prefix}\/share$/;"	m
+depcomp	m4/Makefile	/^depcomp =$/;"	m
+distdir	m4/Makefile	/^distdir = $(top_distdir)\/$(PACKAGE)-$(VERSION)$/;"	m
+exec_prefix	m4/Makefile	/^exec_prefix = ${prefix}$/;"	m
+host	m4/Makefile	/^host = i686-apple-darwin14.3.0$/;"	m
+host_alias	m4/Makefile	/^host_alias = $/;"	m
+host_cpu	m4/Makefile	/^host_cpu = i686$/;"	m
+host_os	m4/Makefile	/^host_os = darwin14.3.0$/;"	m
+host_triplet	m4/Makefile	/^host_triplet = i686-apple-darwin14.3.0$/;"	m
+host_vendor	m4/Makefile	/^host_vendor = apple$/;"	m
+includedir	m4/Makefile	/^includedir = ${prefix}\/include$/;"	m
+infodir	m4/Makefile	/^infodir = ${prefix}\/share\/info$/;"	m
+install_sh	m4/Makefile	/^install_sh = \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/install-sh$/;"	m
+install_sh_DATA	m4/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_PROGRAM	m4/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	m4/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+libdir	m4/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libexecdir	m4/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+localstatedir	m4/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+mandir	m4/Makefile	/^mandir = ${prefix}\/share\/man$/;"	m
+mkinstalldirs	m4/Makefile	/^mkinstalldirs = $(SHELL) $(top_srcdir)\/mkinstalldirs$/;"	m
+oldincludedir	m4/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+pkgdatadir	m4/Makefile	/^pkgdatadir = $(datadir)\/netcat$/;"	m
+pkgincludedir	m4/Makefile	/^pkgincludedir = $(includedir)\/netcat$/;"	m
+pkglibdir	m4/Makefile	/^pkglibdir = $(libdir)\/netcat$/;"	m
+prefix	m4/Makefile	/^prefix = \/usr\/local$/;"	m
+program_transform_name	m4/Makefile	/^program_transform_name = s,x,x,$/;"	m
+sbindir	m4/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sharedstatedir	m4/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+srcdir	m4/Makefile	/^srcdir = .$/;"	m
+subdir	m4/Makefile	/^subdir = m4$/;"	m
+sysconfdir	m4/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+target	m4/Makefile	/^target = i686-apple-darwin14.3.0$/;"	m
+target_alias	m4/Makefile	/^target_alias = $/;"	m
+target_cpu	m4/Makefile	/^target_cpu = i686$/;"	m
+target_os	m4/Makefile	/^target_os = darwin14.3.0$/;"	m
+target_triplet	m4/Makefile	/^target_triplet = i686-apple-darwin14.3.0$/;"	m
+target_vendor	m4/Makefile	/^target_vendor = apple$/;"	m
+top_builddir	m4/Makefile	/^top_builddir = ..$/;"	m
+top_distdir	m4/Makefile	/^top_distdir = ..$/;"	m
+top_srcdir	m4/Makefile	/^top_srcdir = ..$/;"	m
+transform	m4/Makefile	/^transform = $(program_transform_name)$/;"	m
+CATALOGS	po/Makefile	/^CATALOGS =  it.gmo sk.gmo$/;"	m
+COPYRIGHT_HOLDER	po/Makefile	/^COPYRIGHT_HOLDER = Free Software Foundation, Inc.$/;"	m
+DISTFILES	po/Makefile	/^DISTFILES = $(DISTFILES.common) POTFILES.in $(DOMAIN).pot \\$/;"	m
+DISTFILES.common	po/Makefile	/^DISTFILES.common = Makefile.in.in Makevars remove-potcdate.sin \\$/;"	m
+DISTFILES.common.extra1	po/Makefile	/^DISTFILES.common.extra1 = quot.sed boldquot.sed en@quot.header en@boldquot.header insert-header.sin Rules-quot$/;"	m
+DOMAIN	po/Makefile	/^DOMAIN = $(PACKAGE)$/;"	m
+DUMMYPOFILES	po/Makefile	/^DUMMYPOFILES =  it.nop sk.nop$/;"	m
+EXTRA_LOCALE_CATEGORIES	po/Makefile	/^EXTRA_LOCALE_CATEGORIES =$/;"	m
+GMOFILES	po/Makefile	/^GMOFILES =  it.gmo sk.gmo$/;"	m
+GMSGFMT	po/Makefile	/^GMSGFMT = :$/;"	m
+INSTALL	po/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL_DATA	po/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+MKINSTALLDIRS	po/Makefile	/^MKINSTALLDIRS = .\/mkinstalldirs$/;"	m
+MSGCONV	po/Makefile	/^MSGCONV = msgconv$/;"	m
+MSGFILTER	po/Makefile	/^MSGFILTER = msgfilter$/;"	m
+MSGFMT	po/Makefile	/^MSGFMT = :$/;"	m
+MSGINIT	po/Makefile	/^MSGINIT = msginit$/;"	m
+MSGMERGE	po/Makefile	/^MSGMERGE = msgmerge$/;"	m
+MSGMERGE_UPDATE	po/Makefile	/^MSGMERGE_UPDATE = : --update$/;"	m
+PACKAGE	po/Makefile	/^PACKAGE = netcat$/;"	m
+POFILES	po/Makefile	/^POFILES =  it.po sk.po$/;"	m
+POTFILES	po/Makefile	/^POTFILES = \\$/;"	m
+SHELL	po/Makefile	/^SHELL = \/bin\/sh$/;"	m
+UPDATEPOFILES	po/Makefile	/^UPDATEPOFILES =  it.po-update sk.po-update$/;"	m
+VERSION	po/Makefile	/^VERSION = 0.7.1$/;"	m
+XGETTEXT	po/Makefile	/^XGETTEXT = :$/;"	m
+XGETTEXT_OPTIONS	po/Makefile	/^XGETTEXT_OPTIONS = --keyword=_ --keyword=N_$/;"	m
+datadir	po/Makefile	/^datadir = ${prefix}\/share$/;"	m
+distdir	po/Makefile	/^distdir = $(top_builddir)\/$(PACKAGE)-$(VERSION)\/$(subdir)$/;"	m
+exec_prefix	po/Makefile	/^exec_prefix = ${prefix}$/;"	m
+gettextsrcdir	po/Makefile	/^gettextsrcdir = $(datadir)\/gettext\/po$/;"	m
+localedir	po/Makefile	/^localedir = $(datadir)\/locale$/;"	m
+mkinstalldirs	po/Makefile	/^mkinstalldirs = $(SHELL) `case "$(MKINSTALLDIRS)" in \/*) echo "$(MKINSTALLDIRS)" ;; *) echo "$(top_builddir)\/$(MKINSTALLDIRS)" ;; esac`$/;"	m
+prefix	po/Makefile	/^prefix = \/usr\/local$/;"	m
+srcdir	po/Makefile	/^srcdir = .$/;"	m
+subdir	po/Makefile	/^subdir = po$/;"	m
+top_builddir	po/Makefile	/^top_builddir = ..$/;"	m
+top_srcdir	po/Makefile	/^top_srcdir = ..$/;"	m
+ACLOCAL	src/Makefile	/^ACLOCAL = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run aclocal-1.7$/;"	m
+ACLOCAL_M4	src/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ALLOCA	src/Makefile	/^ALLOCA = $/;"	m
+AMDEP_FALSE	src/Makefile	/^AMDEP_FALSE = #$/;"	m
+AMDEP_TRUE	src/Makefile	/^AMDEP_TRUE = $/;"	m
+AMTAR	src/Makefile	/^AMTAR = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run tar$/;"	m
+AUTOCONF	src/Makefile	/^AUTOCONF = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run autoconf$/;"	m
+AUTOHEADER	src/Makefile	/^AUTOHEADER = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run autoheader$/;"	m
+AUTOMAKE	src/Makefile	/^AUTOMAKE = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run automake-1.7$/;"	m
+AWK	src/Makefile	/^AWK = awk$/;"	m
+CC	src/Makefile	/^CC = gcc$/;"	m
+CCDEPMODE	src/Makefile	/^CCDEPMODE = depmode=none$/;"	m
+CCLD	src/Makefile	/^CCLD = $(CC)$/;"	m
+CFLAGS	src/Makefile	/^CFLAGS = -g -O2 -Wall$/;"	m
+COMPILE	src/Makefile	/^COMPILE = $(CC) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) $(AM_CPPFLAGS) \\$/;"	m
+CONFIG_CLEAN_FILES	src/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_HEADER	src/Makefile	/^CONFIG_HEADER = $(top_builddir)\/config.h$/;"	m
+CONTRIBLIBS	src/Makefile	/^CONTRIBLIBS = $/;"	m
+CPP	src/Makefile	/^CPP = gcc -E$/;"	m
+CPPFLAGS	src/Makefile	/^CPPFLAGS = $/;"	m
+CTAGS	src/Makefile	/^CTAGS = ctags$/;"	m
+CTAGSFLAGS	src/Makefile	/^CTAGSFLAGS =$/;"	m
+CYGPATH_W	src/Makefile	/^CYGPATH_W = echo$/;"	m
+DEFAULT_INCLUDES	src/Makefile	/^DEFAULT_INCLUDES =  -I. -I$(srcdir) -I$(top_builddir)$/;"	m
+DEFS	src/Makefile	/^DEFS = -DLOCALEDIR=\\"\\$(localedir)\\" -DHAVE_CONFIG_H$/;"	m
+DEPDIR	src/Makefile	/^DEPDIR = .deps$/;"	m
+DISTFILES	src/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DIST_COMMON	src/Makefile	/^DIST_COMMON = Makefile.am Makefile.in$/;"	m
+DIST_SOURCES	src/Makefile	/^DIST_SOURCES = $(netcat_SOURCES)$/;"	m
+ECHO_C	src/Makefile	/^ECHO_C = \\c$/;"	m
+ECHO_N	src/Makefile	/^ECHO_N = $/;"	m
+ECHO_T	src/Makefile	/^ECHO_T = $/;"	m
+EGREP	src/Makefile	/^EGREP = \/usr\/bin\/grep -E$/;"	m
+ETAGS	src/Makefile	/^ETAGS = etags$/;"	m
+ETAGSFLAGS	src/Makefile	/^ETAGSFLAGS =$/;"	m
+EXEEXT	src/Makefile	/^EXEEXT = $/;"	m
+EXTRA_DIST	src/Makefile	/^EXTRA_DIST = *.h$/;"	m
+GLIBC21	src/Makefile	/^GLIBC21 = no$/;"	m
+GMSGFMT	src/Makefile	/^GMSGFMT = :$/;"	m
+INSTALL	src/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL_DATA	src/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_HEADER	src/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_PROGRAM	src/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	src/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_STRIP_PROGRAM	src/Makefile	/^INSTALL_STRIP_PROGRAM = ${SHELL} $(install_sh) -c -s$/;"	m
+INTLBISON	src/Makefile	/^INTLBISON = bison$/;"	m
+INTLLIBS	src/Makefile	/^INTLLIBS = $/;"	m
+LDFLAGS	src/Makefile	/^LDFLAGS = $/;"	m
+LIBICONV	src/Makefile	/^LIBICONV = -liconv$/;"	m
+LIBINTL	src/Makefile	/^LIBINTL = $/;"	m
+LIBOBJS	src/Makefile	/^LIBOBJS = $/;"	m
+LIBS	src/Makefile	/^LIBS = $/;"	m
+LINK	src/Makefile	/^LINK = $(CCLD) $(AM_CFLAGS) $(CFLAGS) $(AM_LDFLAGS) $(LDFLAGS) -o $@$/;"	m
+LTLIBICONV	src/Makefile	/^LTLIBICONV = -liconv$/;"	m
+LTLIBINTL	src/Makefile	/^LTLIBINTL = $/;"	m
+LTLIBOBJS	src/Makefile	/^LTLIBOBJS = $/;"	m
+MAKEINFO	src/Makefile	/^MAKEINFO = ${SHELL} \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/missing --run makeinfo$/;"	m
+MKINSTALLDIRS	src/Makefile	/^MKINSTALLDIRS = .\/mkinstalldirs$/;"	m
+MSGFMT	src/Makefile	/^MSGFMT = :$/;"	m
+MSGMERGE	src/Makefile	/^MSGMERGE = :$/;"	m
+NEED_GETOPT_FALSE	src/Makefile	/^NEED_GETOPT_FALSE = $/;"	m
+NEED_GETOPT_TRUE	src/Makefile	/^NEED_GETOPT_TRUE = #$/;"	m
+NORMAL_INSTALL	src/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_UNINSTALL	src/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+OBJEXT	src/Makefile	/^OBJEXT = o$/;"	m
+PACKAGE	src/Makefile	/^PACKAGE = netcat$/;"	m
+PACKAGE_BUGREPORT	src/Makefile	/^PACKAGE_BUGREPORT = $/;"	m
+PACKAGE_NAME	src/Makefile	/^PACKAGE_NAME = $/;"	m
+PACKAGE_STRING	src/Makefile	/^PACKAGE_STRING = $/;"	m
+PACKAGE_TARNAME	src/Makefile	/^PACKAGE_TARNAME = $/;"	m
+PACKAGE_VERSION	src/Makefile	/^PACKAGE_VERSION = $/;"	m
+PATH_SEPARATOR	src/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PERL	src/Makefile	/^PERL = \/usr\/bin\/perl$/;"	m
+POD2MAN	src/Makefile	/^POD2MAN = \/usr\/bin\/pod2man$/;"	m
+POST_INSTALL	src/Makefile	/^POST_INSTALL = :$/;"	m
+POST_UNINSTALL	src/Makefile	/^POST_UNINSTALL = :$/;"	m
+POSUB	src/Makefile	/^POSUB = $/;"	m
+PRE_INSTALL	src/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_UNINSTALL	src/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PROGRAMS	src/Makefile	/^PROGRAMS = $(bin_PROGRAMS)$/;"	m
+RANLIB	src/Makefile	/^RANLIB = ranlib$/;"	m
+SET_MAKE	src/Makefile	/^SET_MAKE = $/;"	m
+SHELL	src/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SOURCES	src/Makefile	/^SOURCES = $(netcat_SOURCES)$/;"	m
+STRIP	src/Makefile	/^STRIP = $/;"	m
+USE_NLS	src/Makefile	/^USE_NLS = no$/;"	m
+VERSION	src/Makefile	/^VERSION = 0.7.1$/;"	m
+XGETTEXT	src/Makefile	/^XGETTEXT = :$/;"	m
+ac_ct_CC	src/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_RANLIB	src/Makefile	/^ac_ct_RANLIB = @ac_ct_RANLIB@$/;"	m
+ac_ct_STRIP	src/Makefile	/^ac_ct_STRIP = @ac_ct_STRIP@$/;"	m
+all_includes	src/Makefile	/^all_includes =  $/;"	m
+all_libraries	src/Makefile	/^all_libraries =  $/;"	m
+am__cd	src/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__depfiles_maybe	src/Makefile	/^am__depfiles_maybe =$/;"	m
+am__fastdepCC_FALSE	src/Makefile	/^am__fastdepCC_FALSE = $/;"	m
+am__fastdepCC_TRUE	src/Makefile	/^am__fastdepCC_TRUE = #$/;"	m
+am__include	src/Makefile	/^am__include = include$/;"	m
+am__leading_dot	src/Makefile	/^am__leading_dot = .$/;"	m
+am__quote	src/Makefile	/^am__quote = $/;"	m
+am_netcat_OBJECTS	src/Makefile	/^am_netcat_OBJECTS = core.$(OBJEXT) flagset.$(OBJEXT) misc.$(OBJEXT) \\$/;"	m
+binPROGRAMS_INSTALL	src/Makefile	/^binPROGRAMS_INSTALL = $(INSTALL_PROGRAM)$/;"	m
+bin_PROGRAMS	src/Makefile	/^bin_PROGRAMS = netcat$(EXEEXT)$/;"	m
+bin_PROGRAMS	src/Makefile	/^bin_PROGRAMS = netcat$/;"	m
+bindir	src/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+build	src/Makefile	/^build = i686-apple-darwin14.3.0$/;"	m
+build_alias	src/Makefile	/^build_alias = $/;"	m
+build_cpu	src/Makefile	/^build_cpu = i686$/;"	m
+build_os	src/Makefile	/^build_os = darwin14.3.0$/;"	m
+build_triplet	src/Makefile	/^build_triplet = i686-apple-darwin14.3.0$/;"	m
+build_vendor	src/Makefile	/^build_vendor = apple$/;"	m
+datadir	src/Makefile	/^datadir = ${prefix}\/share$/;"	m
+depcomp	src/Makefile	/^depcomp =$/;"	m
+distdir	src/Makefile	/^distdir = $(top_distdir)\/$(PACKAGE)-$(VERSION)$/;"	m
+exec_prefix	src/Makefile	/^exec_prefix = ${prefix}$/;"	m
+host	src/Makefile	/^host = i686-apple-darwin14.3.0$/;"	m
+host_alias	src/Makefile	/^host_alias = $/;"	m
+host_cpu	src/Makefile	/^host_cpu = i686$/;"	m
+host_os	src/Makefile	/^host_os = darwin14.3.0$/;"	m
+host_triplet	src/Makefile	/^host_triplet = i686-apple-darwin14.3.0$/;"	m
+host_vendor	src/Makefile	/^host_vendor = apple$/;"	m
+includedir	src/Makefile	/^includedir = ${prefix}\/include$/;"	m
+infodir	src/Makefile	/^infodir = ${prefix}\/share\/info$/;"	m
+install_sh	src/Makefile	/^install_sh = \/Users\/admin\/mysrc\/netcat\/netcat-0.7.1\/install-sh$/;"	m
+install_sh_DATA	src/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_PROGRAM	src/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	src/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+libdir	src/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libexecdir	src/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+localedir	src/Makefile	/^localedir = $(datadir)\/locale$/;"	m
+localstatedir	src/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+mandir	src/Makefile	/^mandir = ${prefix}\/share\/man$/;"	m
+mkinstalldirs	src/Makefile	/^mkinstalldirs = $(SHELL) $(top_srcdir)\/mkinstalldirs$/;"	m
+netcat_DEPENDENCIES	src/Makefile	/^netcat_DEPENDENCIES =$/;"	m
+netcat_LDADD	src/Makefile	/^netcat_LDADD =  $/;"	m
+netcat_LDFLAGS	src/Makefile	/^netcat_LDFLAGS =$/;"	m
+netcat_OBJECTS	src/Makefile	/^netcat_OBJECTS = $(am_netcat_OBJECTS)$/;"	m
+netcat_SOURCES	src/Makefile	/^netcat_SOURCES = \\$/;"	m
+netcat_nc	src/Makefile	/^netcat_nc = $(DESTDIR)$(bindir)\/nc$/;"	m
+oldincludedir	src/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+pkgdatadir	src/Makefile	/^pkgdatadir = $(datadir)\/netcat$/;"	m
+pkgincludedir	src/Makefile	/^pkgincludedir = $(includedir)\/netcat$/;"	m
+pkglibdir	src/Makefile	/^pkglibdir = $(libdir)\/netcat$/;"	m
+prefix	src/Makefile	/^prefix = \/usr\/local$/;"	m
+program_transform_name	src/Makefile	/^program_transform_name = s,x,x,$/;"	m
+sbindir	src/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+sharedstatedir	src/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+srcdir	src/Makefile	/^srcdir = .$/;"	m
+subdir	src/Makefile	/^subdir = src$/;"	m
+sysconfdir	src/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+target	src/Makefile	/^target = i686-apple-darwin14.3.0$/;"	m
+target_alias	src/Makefile	/^target_alias = $/;"	m
+target_cpu	src/Makefile	/^target_cpu = i686$/;"	m
+target_os	src/Makefile	/^target_os = darwin14.3.0$/;"	m
+target_triplet	src/Makefile	/^target_triplet = i686-apple-darwin14.3.0$/;"	m
+target_vendor	src/Makefile	/^target_vendor = apple$/;"	m
+top_builddir	src/Makefile	/^top_builddir = ..$/;"	m
+top_distdir	src/Makefile	/^top_distdir = ..$/;"	m
+top_srcdir	src/Makefile	/^top_srcdir = ..$/;"	m
+transform	src/Makefile	/^transform = $(program_transform_name)$/;"	m
+bytes_recv	src/core.c	/^unsigned long bytes_recv = 0;		\/* total bytes sent *\/$/;"	v
+bytes_sent	src/core.c	/^unsigned long bytes_sent = 0;		\/* total bytes received *\/$/;"	v
+core_connect	src/core.c	/^int core_connect(nc_sock_t *ncsock)$/;"	f
+core_listen	src/core.c	/^int core_listen(nc_sock_t *ncsock)$/;"	f
+core_readwrite	src/core.c	/^int core_readwrite(nc_sock_t *nc_main, nc_sock_t *nc_slave)$/;"	f
+core_tcp_connect	src/core.c	/^static int core_tcp_connect(nc_sock_t *ncsock)$/;"	f	file:
+core_tcp_listen	src/core.c	/^static int core_tcp_listen(nc_sock_t *ncsock)$/;"	f	file:
+core_udp_connect	src/core.c	/^static int core_udp_connect(nc_sock_t *ncsock)$/;"	f	file:
+core_udp_listen	src/core.c	/^static int core_udp_listen(nc_sock_t *ncsock)$/;"	f	file:
+flagset	src/flagset.c	/^static char *flagset = NULL;$/;"	v	file:
+flagset_len	src/flagset.c	/^static size_t flagset_len = 0;$/;"	v	file:
+netcat_flag_count	src/flagset.c	/^int netcat_flag_count(void)$/;"	f
+netcat_flag_get	src/flagset.c	/^bool netcat_flag_get(unsigned short port)$/;"	f
+netcat_flag_init	src/flagset.c	/^bool netcat_flag_init(unsigned int len)$/;"	f
+netcat_flag_next	src/flagset.c	/^unsigned short netcat_flag_next(unsigned short port)$/;"	f
+netcat_flag_rand	src/flagset.c	/^unsigned short netcat_flag_rand(void)$/;"	f
+netcat_flag_set	src/flagset.c	/^void netcat_flag_set(unsigned short port, bool flag)$/;"	f
+N_	src/intl.h	/^#define N_(/;"	d
+PL_	src/intl.h	/^#define PL_(/;"	d
+_	src/intl.h	/^#define _(/;"	d
+bind_textdomain_codeset	src/intl.h	/^#define bind_textdomain_codeset(/;"	d
+bindtextdomain	src/intl.h	/^#define bindtextdomain(/;"	d
+textdomain	src/intl.h	/^#define textdomain(/;"	d
+TIMEVAL_DIFF	src/misc.c	/^#define TIMEVAL_DIFF(/;"	d	file:
+debug_fmt	src/misc.c	/^const char *debug_fmt(const char *fmt, ...)$/;"	f
+ncprint	src/misc.c	/^void ncprint(int type, const char *fmt, ...)$/;"	f
+netcat_commandline_read	src/misc.c	/^void netcat_commandline_read(int *argc, char ***argv)$/;"	f
+netcat_fhexdump	src/misc.c	/^int netcat_fhexdump(FILE *stream, char c, const void *data, size_t datalen)$/;"	f
+netcat_printhelp	src/misc.c	/^void netcat_printhelp(char *argv0)$/;"	f
+netcat_printstats	src/misc.c	/^void netcat_printstats(bool force)$/;"	f
+netcat_printversion	src/misc.c	/^void netcat_printversion(void)$/;"	f
+netcat_snprintnum	src/misc.c	/^int netcat_snprintnum(char *str, size_t size, unsigned long number)$/;"	f
+netcat_string_split	src/misc.c	/^char *netcat_string_split(char **buf)$/;"	f
+update_timeval	src/misc.c	/^void update_timeval(struct timeval *target)$/;"	f
+NCPRINT_DEBUG	src/misc.h	/^#define NCPRINT_DEBUG	/;"	d
+NCPRINT_DEBUG_V	src/misc.h	/^#define NCPRINT_DEBUG_V	/;"	d
+NCPRINT_DELAY	src/misc.h	/^#define NCPRINT_DELAY	/;"	d
+NCPRINT_ERROR	src/misc.h	/^#define NCPRINT_ERROR	/;"	d
+NCPRINT_EXIT	src/misc.h	/^#define NCPRINT_EXIT	/;"	d
+NCPRINT_NOFMT	src/misc.h	/^#define NCPRINT_NOFMT	/;"	d
+NCPRINT_NONEWLINE	src/misc.h	/^#define NCPRINT_NONEWLINE	/;"	d
+NCPRINT_NORMAL	src/misc.h	/^#define NCPRINT_NORMAL	/;"	d
+NCPRINT_NOTICE	src/misc.h	/^#define NCPRINT_NOTICE	/;"	d
+NCPRINT_STDOUT	src/misc.h	/^#define NCPRINT_STDOUT	/;"	d
+NCPRINT_VERB1	src/misc.h	/^#define NCPRINT_VERB1	/;"	d
+NCPRINT_VERB2	src/misc.h	/^#define NCPRINT_VERB2	/;"	d
+NCPRINT_WAITTIME	src/misc.h	/^#define NCPRINT_WAITTIME /;"	d
+NCPRINT_WARNING	src/misc.h	/^#define NCPRINT_WARNING	/;"	d
+debug	src/misc.h	/^# define debug(/;"	d
+debug_d	src/misc.h	/^# define debug_d(/;"	d
+debug_dv	src/misc.h	/^# define debug_dv(/;"	d
+debug_v	src/misc.h	/^# define debug_v(/;"	d
+commandline_need_newline	src/netcat.c	/^bool commandline_need_newline = FALSE;	\/* fancy output handling *\/$/;"	v
+got_int	src/netcat.c	/^static void got_int(int z)$/;"	f	file:
+got_sigint	src/netcat.c	/^bool got_sigint = FALSE;	\/* when this TRUE the application should exit *\/$/;"	v
+got_sigterm	src/netcat.c	/^bool got_sigterm = FALSE;	\/* when this TRUE the application must exit *\/$/;"	v
+got_sigusr1	src/netcat.c	/^bool got_sigusr1 = FALSE;	\/* when set, the application should print stats *\/$/;"	v
+got_term	src/netcat.c	/^static void got_term(int z)$/;"	f	file:
+got_usr1	src/netcat.c	/^static void got_usr1(int z)$/;"	f	file:
+main	src/netcat.c	/^int main(int argc, char *argv[])$/;"	f
+ncexec	src/netcat.c	/^static void ncexec(nc_sock_t *ncsock)$/;"	f	file:
+netcat_mode	src/netcat.c	/^nc_mode_t netcat_mode = 0;	\/* Netcat working modality *\/$/;"	v
+opt_debug	src/netcat.c	/^bool opt_debug = FALSE;		\/* debugging output *\/$/;"	v
+opt_eofclose	src/netcat.c	/^bool opt_eofclose = FALSE;	\/* close connection on EOF from stdin *\/$/;"	v
+opt_exec	src/netcat.c	/^char *opt_exec = NULL;		\/* program to exec after connecting *\/$/;"	v
+opt_hexdump	src/netcat.c	/^bool opt_hexdump = FALSE;	\/* hexdump traffic *\/$/;"	v
+opt_interval	src/netcat.c	/^int opt_interval = 0;		\/* delay (in seconds) between lines\/ports *\/$/;"	v
+opt_numeric	src/netcat.c	/^bool opt_numeric = FALSE;	\/* don't resolve hostnames *\/$/;"	v
+opt_outputfile	src/netcat.c	/^char *opt_outputfile = NULL;	\/* hexdump output file *\/$/;"	v
+opt_proto	src/netcat.c	/^nc_proto_t opt_proto = NETCAT_PROTO_TCP; \/* protocol to use for connections *\/$/;"	v
+opt_random	src/netcat.c	/^bool opt_random = FALSE;	\/* use random ports *\/$/;"	v
+opt_telnet	src/netcat.c	/^bool opt_telnet = FALSE;	\/* answer in telnet mode *\/$/;"	v
+opt_udpmode	src/netcat.c	/^bool opt_udpmode = FALSE;	\/* use udp protocol instead of tcp *\/$/;"	v
+opt_verbose	src/netcat.c	/^int opt_verbose = 0;		\/* be verbose (> 1 to be MORE verbose) *\/$/;"	v
+opt_wait	src/netcat.c	/^int opt_wait = 0;		\/* wait time *\/$/;"	v
+opt_zero	src/netcat.c	/^bool opt_zero = FALSE;		\/* zero I\/O mode (don't expect anything) *\/$/;"	v
+output_fp	src/netcat.c	/^FILE *output_fp = NULL;		\/* output fd (FIXME: i don't like this) *\/$/;"	v
+signal_handler	src/netcat.c	/^bool signal_handler = TRUE;	\/* handle the signals externally *\/$/;"	v
+use_stdin	src/netcat.c	/^bool use_stdin = TRUE;		\/* tells wether stdin was closed or not *\/$/;"	v
+BOOL_TO_STR	src/netcat.h	/^#define BOOL_TO_STR(/;"	d
+FALSE	src/netcat.h	/^# define FALSE /;"	d
+INADDR_NONE	src/netcat.h	/^# define INADDR_NONE /;"	d
+MAXHOSTNAMELEN	src/netcat.h	/^# undef MAXHOSTNAMELEN	/;"	d
+MAXHOSTNAMELEN	src/netcat.h	/^#define MAXHOSTNAMELEN /;"	d
+MAXINETADDRS	src/netcat.h	/^#define MAXINETADDRS /;"	d
+NETCAT_ADDRSTRLEN	src/netcat.h	/^# define NETCAT_ADDRSTRLEN /;"	d
+NETCAT_CONNECT	src/netcat.h	/^  NETCAT_CONNECT,$/;"	e	enum:__anon2
+NETCAT_H	src/netcat.h	/^#define NETCAT_H$/;"	d
+NETCAT_LISTEN	src/netcat.h	/^  NETCAT_LISTEN,$/;"	e	enum:__anon2
+NETCAT_MAXPORTNAMELEN	src/netcat.h	/^#define NETCAT_MAXPORTNAMELEN /;"	d
+NETCAT_PROTO_TCP	src/netcat.h	/^  NETCAT_PROTO_TCP,$/;"	e	enum:__anon3
+NETCAT_PROTO_UDP	src/netcat.h	/^  NETCAT_PROTO_UDP$/;"	e	enum:__anon3
+NETCAT_PROTO_UNSPEC	src/netcat.h	/^  NETCAT_PROTO_UNSPEC,$/;"	e	enum:__anon3
+NETCAT_TUNNEL	src/netcat.h	/^  NETCAT_TUNNEL$/;"	e	enum:__anon2
+NETCAT_UNSPEC	src/netcat.h	/^  NETCAT_UNSPEC,$/;"	e	enum:__anon2
+NULL_STR	src/netcat.h	/^#define NULL_STR(/;"	d
+RAND	src/netcat.h	/^# define RAND /;"	d
+SHUT_RDWR	src/netcat.h	/^# define SHUT_RDWR /;"	d
+SRAND	src/netcat.h	/^# define SRAND /;"	d
+STDERR_FILENO	src/netcat.h	/^# define STDERR_FILENO /;"	d
+STDIN_FILENO	src/netcat.h	/^# define STDIN_FILENO /;"	d
+STDOUT_FILENO	src/netcat.h	/^# define STDOUT_FILENO /;"	d
+TRUE	src/netcat.h	/^# define TRUE /;"	d
+USE_PKTINFO	src/netcat.h	/^#   define USE_PKTINFO$/;"	d
+USE_RANDOM	src/netcat.h	/^# define USE_RANDOM	/;"	d
+addrs	src/netcat.h	/^  char addrs[MAXINETADDRS][NETCAT_ADDRSTRLEN];	\/* ascii-format IP addresses *\/$/;"	m	struct:__anon5
+ascnum	src/netcat.h	/^  char ascnum[8];			\/* ascii port number *\/$/;"	m	struct:__anon6
+bool	src/netcat.h	/^#  define bool /;"	d
+domain	src/netcat.h	/^  int fd, domain, timeout;$/;"	m	struct:__anon7
+fd	src/netcat.h	/^  int fd, domain, timeout;$/;"	m	struct:__anon7
+head	src/netcat.h	/^  unsigned char *head;$/;"	m	struct:__anon4
+host	src/netcat.h	/^  nc_host_t local_host, host;$/;"	m	struct:__anon7
+iaddrs	src/netcat.h	/^  struct in_addr iaddrs[MAXINETADDRS];		\/* real addresses *\/$/;"	m	struct:__anon5	typeref:struct:__anon5::in_addr
+in_port_t	src/netcat.h	/^typedef unsigned short in_port_t;$/;"	t
+len	src/netcat.h	/^  int len;$/;"	m	struct:__anon4
+local_host	src/netcat.h	/^  nc_host_t local_host, host;$/;"	m	struct:__anon7
+local_port	src/netcat.h	/^  nc_port_t local_port, port;$/;"	m	struct:__anon7
+name	src/netcat.h	/^  char name[MAXHOSTNAMELEN];			\/* dns name *\/$/;"	m	struct:__anon5
+name	src/netcat.h	/^  char name[NETCAT_MAXPORTNAMELEN];	\/* canonical port name *\/$/;"	m	struct:__anon6
+nc_buffer_t	src/netcat.h	/^} nc_buffer_t;$/;"	t	typeref:struct:__anon4
+nc_host_t	src/netcat.h	/^} nc_host_t;$/;"	t	typeref:struct:__anon5
+nc_mode_t	src/netcat.h	/^} nc_mode_t;$/;"	t	typeref:enum:__anon2
+nc_port_t	src/netcat.h	/^} nc_port_t;$/;"	t	typeref:struct:__anon6
+nc_proto_t	src/netcat.h	/^} nc_proto_t;$/;"	t	typeref:enum:__anon3
+nc_sock_t	src/netcat.h	/^} nc_sock_t;$/;"	t	typeref:struct:__anon7
+netnum	src/netcat.h	/^  in_port_t netnum;			\/* port number in network byte order *\/$/;"	m	struct:__anon6
+num	src/netcat.h	/^  unsigned short num;			\/* port number *\/$/;"	m	struct:__anon6
+port	src/netcat.h	/^  nc_port_t local_port, port;$/;"	m	struct:__anon7
+pos	src/netcat.h	/^  unsigned char *pos;$/;"	m	struct:__anon4
+proto	src/netcat.h	/^  nc_proto_t proto;$/;"	m	struct:__anon7
+recvq	src/netcat.h	/^  nc_buffer_t sendq, recvq;$/;"	m	struct:__anon7
+sendq	src/netcat.h	/^  nc_buffer_t sendq, recvq;$/;"	m	struct:__anon7
+timeout	src/netcat.h	/^  int fd, domain, timeout;$/;"	m	struct:__anon7
+netcat_getport	src/network.c	/^bool netcat_getport(nc_port_t *dst, const char *port_string,$/;"	f
+netcat_inet_ntop	src/network.c	/^const char *netcat_inet_ntop(const void *src)$/;"	f
+netcat_inet_pton	src/network.c	/^int netcat_inet_pton(const char *src, void *dst)$/;"	f
+netcat_resolvehost	src/network.c	/^bool netcat_resolvehost(nc_host_t *dst, const char *name)$/;"	f
+netcat_socket_accept	src/network.c	/^int netcat_socket_accept(int s, int timeout)$/;"	f
+netcat_socket_new	src/network.c	/^int netcat_socket_new(int domain, int type)$/;"	f
+netcat_socket_new_connect	src/network.c	/^int netcat_socket_new_connect(int domain, int type, const struct in_addr *addr,$/;"	f
+netcat_socket_new_listen	src/network.c	/^int netcat_socket_new_listen(int domain, const struct in_addr *addr,$/;"	f
+netcat_strid	src/network.c	/^const char *netcat_strid(const nc_host_t *host, const nc_port_t *port)$/;"	f
+TELNET_AO	src/telnet.c	/^#define TELNET_AO	/;"	d	file:
+TELNET_AYT	src/telnet.c	/^#define TELNET_AYT	/;"	d	file:
+TELNET_BRK	src/telnet.c	/^#define TELNET_BRK	/;"	d	file:
+TELNET_DM	src/telnet.c	/^#define TELNET_DM	/;"	d	file:
+TELNET_DO	src/telnet.c	/^#define TELNET_DO	/;"	d	file:
+TELNET_DONT	src/telnet.c	/^#define TELNET_DONT	/;"	d	file:
+TELNET_EC	src/telnet.c	/^#define TELNET_EC	/;"	d	file:
+TELNET_EL	src/telnet.c	/^#define TELNET_EL	/;"	d	file:
+TELNET_GA	src/telnet.c	/^#define TELNET_GA	/;"	d	file:
+TELNET_IAC	src/telnet.c	/^#define TELNET_IAC	/;"	d	file:
+TELNET_IP	src/telnet.c	/^#define TELNET_IP	/;"	d	file:
+TELNET_NOP	src/telnet.c	/^#define TELNET_NOP	/;"	d	file:
+TELNET_SB	src/telnet.c	/^#define TELNET_SB	/;"	d	file:
+TELNET_SE	src/telnet.c	/^#define TELNET_SE	/;"	d	file:
+TELNET_WILL	src/telnet.c	/^#define TELNET_WILL	/;"	d	file:
+TELNET_WONT	src/telnet.c	/^#define TELNET_WONT	/;"	d	file:
+netcat_telnet_parse	src/telnet.c	/^void netcat_telnet_parse(nc_sock_t *ncsock)$/;"	f
+SIOCGLIFADDR	src/udphelper.c	/^# define SIOCGLIFADDR /;"	d	file:
+SIOCGLIFCONF	src/udphelper.c	/^# define SIOCGLIFCONF /;"	d	file:
+SIOCGLIFDSTADDR	src/udphelper.c	/^# define SIOCGLIFDSTADDR /;"	d	file:
+SIOCGLIFFLAGS	src/udphelper.c	/^# define SIOCGLIFFLAGS /;"	d	file:
+SIOCGLIFNETMASK	src/udphelper.c	/^# define SIOCGLIFNETMASK /;"	d	file:
+lifc_buf	src/udphelper.c	/^# define lifc_buf /;"	d	file:
+lifc_len	src/udphelper.c	/^# define lifc_len /;"	d	file:
+lifc_req	src/udphelper.c	/^# define lifc_req /;"	d	file:
+lifconf	src/udphelper.c	/^# define lifconf /;"	d	file:
+lifr_addr	src/udphelper.c	/^# define lifr_addr /;"	d	file:
+lifr_dstaddr	src/udphelper.c	/^# define lifr_dstaddr /;"	d	file:
+lifr_flags	src/udphelper.c	/^# define lifr_flags /;"	d	file:
+lifr_name	src/udphelper.c	/^# define lifr_name /;"	d	file:
+lifreq	src/udphelper.c	/^# define lifreq /;"	d	file:
+ss_family	src/udphelper.c	/^# define ss_family /;"	d	file:
+udphelper_ancillary_read	src/udphelper.c	/^int udphelper_ancillary_read(struct msghdr *my_hdr,$/;"	f
+udphelper_sockets_close	src/udphelper.c	/^void udphelper_sockets_close(int *sockbuf)$/;"	f
+udphelper_sockets_open	src/udphelper.c	/^int udphelper_sockets_open(int **sockbuf, in_port_t nport)$/;"	f
